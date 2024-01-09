@@ -6,13 +6,13 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Blog PrettyProducts
+title: Blog Marketing
 email: lantoniotrento@gmail.com
 description: >
-  Servizi di Fotografia professionale di Antonio Trento
+  Dive into the world of email marketing, nurturing relationships with your subscribers and converting them into loyal customers.
 logo: "/assets/images/logo-nav.png"
 
-language: it
+language: en
 permalink: /:title/
 
 baseurl: "" # the subpath of your site, e.g. blog/ remember to put the / at the end
@@ -21,7 +21,7 @@ paginate:	5 # The number of posts to show per page on your homepage
 
 name: 'Antonio Trento'
 bio: >
-  Un appassionato di web geek che ama fare buone strategie di marketing, creare bellissime foto, installare e mantenere piattaforme web.
+  Driven by this realization, Trento embarked on a mission to explore the intricacies of blog marketing, delving into the art of creating compelling content, optimizing for search engines, harnessing the power of social media, and mastering email marketing strategies. His unwavering dedication to learning and sharing his knowledge has earned him a reputation as a trusted guide and mentor in the blog marketing realm.
 author_image: "/assets/images/author.jpg"
 twitter_username: fomofoto
 github_username:  antoniotrento
