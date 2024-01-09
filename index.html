@@ -1,7 +1,7 @@
 ---
 layout: blog
-title: fomofoto Blog
-description: Notizie e informazioni dal mondo della fotografia dia fomofoto
+title: Blog Marketing
+description: Dive into the world of email marketing, nurturing relationships with your subscribers and converting them into loyal customers.
 img: assets/images/social/home.jpg
 image: assets/images/social/home.jpg
 custom-head:
@@ -9,7 +9,8 @@ type: 'article'
 ---
 <main id="content" role="main" class="main md-flex flex-wrap items-start">
   <section class="commerce-blog-wrapper col-12 md-col-8 px2 pt2 pb3 md-px4 md-pt1 md-pb3">
-      <h1 class="xs-hide sm-hide md-commerce-header h3 md-py2 md-mb4">Blog di Fomofoto</h1>
+      <h1 class="xs-hide sm-hide md-commerce-header h3 md-py2 md-mb4">Blog Marketing</h1>
+      <p class="mb2">Dive into the world of email marketing, nurturing relationships with your subscribers and converting them into loyal customers.</p>
 
   {% for post in site.posts %}
 
@@ -23,7 +24,7 @@ type: 'article'
       <div class="mb3 md-mx0">
         <a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}"><h2 class="h3">{{ post.title }}</h2></a>        
         <p class="mb2">{{ post.description | remove: '<p>' | remove: '</p>' }}</p>
-        <a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}" class="commerce-blog-link inline-block h7 md-mb4">Leggi tutto</a>
+        <a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}" class="commerce-blog-link inline-block h7 md-mb4">Read Post</a>
       </div>
       </article>
   {% endfor %}        
