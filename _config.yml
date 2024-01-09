@@ -1,0 +1,106 @@
+# Welcome to Amplified for Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+title: Blog PrettyProducts
+email: lantoniotrento@gmail.com
+description: >
+  Servizi di Fotografia professionale di Antonio Trento
+logo: "/assets/images/logo-nav.png"
+
+language: it
+permalink: /:title/
+
+baseurl: "" # the subpath of your site, e.g. blog/ remember to put the / at the end
+url: "https://blogmarketing.github.io" # the base hostname & protocol for your site
+paginate:	5 # The number of posts to show per page on your homepage
+
+name: 'Antonio Trento'
+bio: >
+  Un appassionato di web geek che ama fare buone strategie di marketing, creare bellissime foto, installare e mantenere piattaforme web.
+author_image: "/assets/images/author.jpg"
+twitter_username: fomofoto
+github_username:  antoniotrento
+
+#The basic aside datas that will shown
+
+aside-title: Antonio Trento
+aside-image: sidebar-myselfcap.jpg
+aside-description: Antonio ama fare scatti in giro per il mondo, specialmente, scatti di ritratti, foto aeree e pubblicitarie. Antonio lavora con alcuni dei più grandi brand al mondo.
+aside-button-link: /about
+aside-button-text: Contattami
+
+# Google Analytics WHEN YOU LIKE TO HOST ONLY WITH GOOLE ANALYTICS (This configuration type is more quick in 
+# terms of loading if compared with the combination of tag managet/optimize/analitycs downstairs)
+
+# uncomment to use--> 
+# analytics_id: 
+
+author :
+  name : Fomofoto
+  email : lantoniotrento@gmail.com
+  github : fomofoto/fomofoto.github.io
+  twitter : fomofoto
+  facebook: fomofoto
+  linkedin: antoniotrento
+  instagram: fomofoto
+  pinterest: fomofoto
+  feedburner :
+
+# MY GOOGLE MAPS FOOTER LOCATION IN ALL PAGES
+location:
+  latitude: 42.45999529999999
+  longitude: 14.156590800000004
+
+# WHEN YOU WANT TO HOST WITH THE COMBINATION OF GOOLE TAG MANAGER, ANALYTICS AND OPTIMIZE 
+# (tracking_id, optimize_id, tagmanager_id ARE REQUIRED FIELDS)
+google :
+    tracking_id :  #Id google analitics
+    optimize_id :  #I'id di google optimize per A/B Testing
+    optimize_experiment_id: ' ' #I'id di dell'esperimento google optimize per A/B Testing
+    tagmanager_id:  #id di google tag manager
+    #ad_client:  # id google ADsense (to edit other id's of google ADsense go to /_includes/JB/ads-block-html )
+
+
+# data for jekyll-seo-tags plugin
+social:
+  name: fomofoto
+  links:
+    - https://twitter.com/fomofoto
+    - https://www.facebook.com/fomofoto
+    - https://www.linkedin.com/in/antoniotrento
+    - https://plus.google.com/u/0/b/114870349902392641766/105909498949786982602
+    - https://github.com/fomofoto/fomofoto.github.io
+    
+
+twitter:
+  username: fomofoto
+
+facebook:
+ app_id:  #the app id from https://developers.facebook.com/
+ admins:  #the page ID from https://www.facebook.com/pg/lantoniotrento (page-link), left click about scroll down and find 'Page ID'
+ publisher:  #the page ID from https://www.facebook.com/pg/lantoniotrento (page-link), left click about scroll down and find 'Page ID'
+ pixel: 
+
+ 
+
+    
+# disqus :
+#    short_name : jorigamy
+
+# Build settings
+markdown: kramdown
+
+kramdown:
+  parse_block_html: true
+
+gems:
+  - jekyll-paginate
+  - jekyll-seo-tag
+
+plugins:
+  - jekyll-redirect-from

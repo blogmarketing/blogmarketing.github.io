@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow:
+Disallow: /_includes/
+Disallow: /_drafts/
+Disallow: /_config.yml
+Disallow: /_layouts/
+Disallow: /_plugins/
+Disallow: /tema/
+Disallow: /_data/
+
+Sitemap: https://blog.prettyproducts.online/sitemap.txt
