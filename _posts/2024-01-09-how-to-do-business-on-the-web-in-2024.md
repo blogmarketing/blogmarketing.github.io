@@ -834,10 +834,3 @@ Using funnels to conduct business on the web offers numerous advantages that can
 
 In conclusion, funnels are indispensable tools for businesses operating in the digital landscape. By implementing funnel-based marketing strategies, you can streamline your sales process, generate more leads, drive higher conversions, and achieve sustainable business growth.
 
-
-
-
-
----
-<amp-img alt="Fotografia di un corpo macchina, fotografico" title="Corpo macchina" src="{{ site.url }}{{ site.baseurl }}{% link assets/images/post/2018-10-14-strumenti-professionali-fotografo/corpo-macchina.jpg %}" width="750" height="427" layout="responsive"><div placeholder="" class="commerce-loader"></div>  </amp-img>
----
