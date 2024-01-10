@@ -8,3 +8,4 @@ type: 'BlogPosting'
 tags: business start money marketing
 ---
 
+Re-edit this text usinng markdown tho bold and italic, modify the text, must be diffrent:
