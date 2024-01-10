@@ -21,16 +21,16 @@ paginate:	5 # The number of posts to show per page on your homepage
 
 name: 'Antonio Trento'
 bio: >
-  Driven by this realization, Trento embarked on a mission to explore the intricacies of blog marketing, delving into the art of creating compelling content, optimizing for search engines, harnessing the power of social media, and mastering email marketing strategies. His unwavering dedication to learning and sharing his knowledge has earned him a reputation as a trusted guide and mentor in the blog marketing realm.
+  Driven by this realization, Antonio embarked on a mission to explore the intricacies of blog marketing, delving into the art of creating compelling content, optimizing for search engines, harnessing the power of social media, and mastering email marketing strategies. His unwavering dedication to learning and sharing his knowledge has earned him a reputation as a trusted guide and mentor in the blog marketing realm.
 author_image: "/assets/images/author.jpg"
 twitter_username: fomofoto
 github_username:  antoniotrento
 
 #The basic aside datas that will shown
 
-aside-title: Unlock the Power of Funnel Landing Pages with Our Easy-to-Use Builder
+aside-title: Unlock the Power of Marketing with Our Easy-to-Use Builder
 aside-image: clickfunnels-optin.png
-aside-description: In today's competitive digital marketing landscape, creating high-converting landing pages is crucial for driving leads, boosting sales, and achieving your business objectives. However, designing and optimizing landing pages can be a complex and time-consuming process. Make it easy
+aside-description: In today's competitive digital marketing landscape, creating high-converting funnels is crucial for driving leads, boosting sales, and achieving your business objectives. However, designing and optimizing funnels can be a complex and time-consuming process. Make it easy
 aside-button-link: 'https://prettyproducts.online/clickfunnels-blogmarketing/'
 aside-button-text: Discover
 
