@@ -6,6 +6,7 @@ img: /assets/images/post/2024-01-10-how-to-start-an-online-business-in-2024-and-
 image: /assets/images/post/2024-01-10-how-to-start-an-online-business-in-2024-and-some-lucrative-ideas/2024-01-10-how-to-start-an-online-business-in-2024-and-some-lucrative-ideas.jpg
 type: 'BlogPosting'
 tags: business start money marketing
+toc: true
 ---
 
 **The allure of owning a small business** is _undeniable_. The notion of freedom, flexibility, and the satisfaction derived from creating something from scratch is why many yearn to depart from their regular jobs and embrace the role of their own boss.
