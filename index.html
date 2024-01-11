@@ -15,21 +15,20 @@ type: 'article'
   {% for post in site.posts %}
 
     <article>
+      <hr>
       <div class="mb3 md-mx0">
-        <a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}"><h2 class="h3">{{ post.title }}</h2></a>        
-        <p class="mb2">{{ post.description | remove: '<p>' | remove: '</p>' }}</p>
-        
+        <a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}"><h2 class="h3">{{ post.title }}</h2></a>          
       </div>
   {% if post.image %}
       <a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">
       <amp-img class="mb3" src="{{ post.image }}" srcset="{{ post.image }} 750w,{{ post.image }} 1280w" width="750" height="427" layout="responsive" alt="No sleep &#39;til Brooklyn" noloading="">
       <div placeholder="" class="commerce-loader"></div>  </amp-img> </a>
   {% endif %}
+  <p class="mb2">{{ post.description | remove: '<p>' | remove: '</p>' }}</p>
   <a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}" class="ampstart-btn ampstart-btn-secondary caps md-mb2">
     Read Post
 </a>
-  
-
+<hr>
       </article>
   {% endfor %}        
   </section>
