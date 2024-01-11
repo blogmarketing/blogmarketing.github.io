@@ -6,7 +6,6 @@ img: /assets/images/post/2024-01-12-marketing-strategy-what-it-is-how-it-works-h
 image: /assets/images/post/2024-01-12-marketing-strategy-what-it-is-how-it-works-how-to-create-one/marketing-strategy-what-it-is-how-it-works-how-to-create-one.jpg
 type: 'BlogPosting'
 tags: business money marketing email funnel sales
-toc: true
 ---
 
 ## What Is a Marketing Strategy? 
