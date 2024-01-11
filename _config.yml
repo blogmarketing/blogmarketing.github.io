@@ -106,7 +106,7 @@ gems:
 plugins:
   - jekyll-redirect-from
   - jekyll-toc
-	
+
 # TOC Settings
 toc:
  min_level: 1
