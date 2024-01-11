@@ -42,14 +42,14 @@ aside-button-text: Discover
 # analytics_id: 
 
 author :
-  name : Fomofoto
+  name : Antonio Trento
   email : lantoniotrento@gmail.com
-  github : fomofoto/fomofoto.github.io
-  twitter : fomofoto
-  facebook: fomofoto
+  github : antoniotrento/antoniotrento.github.io
+  twitter : lantoniotrento
+  facebook: antoniotrento
   linkedin: antoniotrento
-  instagram: fomofoto
-  pinterest: fomofoto
+  instagram: lantoniotrento
+  pinterest: lantoniotrento
   feedburner :
 
 # MY GOOGLE MAPS FOOTER LOCATION IN ALL PAGES
@@ -69,7 +69,7 @@ google :
 
 # data for jekyll-seo-tags plugin
 social:
-  name: fomofoto
+  name: Antonio Trento
   links:
     - https://twitter.com/fomofoto
     - https://www.facebook.com/fomofoto
@@ -79,7 +79,7 @@ social:
     
 
 twitter:
-  username: fomofoto
+  username: lantoniotrento
 
 facebook:
  app_id:  #the app id from https://developers.facebook.com/
