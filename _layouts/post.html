@@ -18,10 +18,11 @@
                   
                   <div class="mb3 md-mx0">                                            
                       <div class="mb2">{{ content }}</div>
+                      {% include blocks/calltoaction.html %} 
                       <a href="{{ site.url }}{{ site.baseurl }}" class="commerce-blog-link inline-block h7 md-mb4">All posts</a>
                     </div>
                 </article>
-            {% include blocks/calltoaction.html %}    
+               
             </section>
             {% include blocks/aside.html %}
         </main>
