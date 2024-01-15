@@ -1,9 +1,18 @@
 
 {% if site.google.tagmanager_id %}
 <!-- Google Tag Manager (noscript) -->
-<noscript><iframe src="https://www.googletagmanager.com/ns.html?id={{ site.google.tagmanager_id }}"
-  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-<!-- End Google Tag Manager (noscript) -->
+<amp-analytics type="gtag" data-credentials="include">
+  <script type="application/json">
+  {
+    "vars" : {
+      "gtag_id": "{{ site.google.tagmanager_id }}",
+      "config" : {
+        "{{ site.google.tagmanager_id }}": { "groups": "default" }
+      }
+    }
+  }
+  </script>
+  </amp-analytics>
 {% endif %}
 {% if site.google.tracking_id %}
 <amp-analytics type="googleanalytics">
