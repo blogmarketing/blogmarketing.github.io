@@ -63,7 +63,7 @@ google :
     tracking_id :  #Id google analitics
     optimize_id :  #I'id di google optimize per A/B Testing
     optimize_experiment_id: ' ' #I'id di dell'esperimento google optimize per A/B Testing
-    tagmanager_id:  #id di google tag manager
+    tagmanager_id:  'GTM-PHMVZRTG'
     #ad_client:  # id google ADsense (to edit other id's of google ADsense go to /_includes/JB/ads-block-html )
 
 

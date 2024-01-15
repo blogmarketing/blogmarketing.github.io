@@ -5,7 +5,9 @@
 {% if site.google.ad_client %}
     {% include JB/ad-block.html %}
 {% endif %}
-
+{% if site.google.tagmanager_id %}
+    {% include JB/head-tagmanager.html %}
+{% endif %}
 {% seo %}
 <meta property="og:type"   content="{% if page.type %}{{ page.type }}{% else %}website{% endif %}" /> 
 
