@@ -2,8 +2,8 @@
 layout: post
 title: Email marketing 6 reasons why it’s vital for your business in 2024
 description:  In the ever-evolving world of digital marketing, email remains a powerful tool for businesses of all sizes. Here are six reasons why email marketing is vital for your business in 2024
-img: /assets/images/post/2024-01-16-reasons-business-use-email-marketing/reasons-business-use-email-marketing.jpg
-image: /assets/images/post/2024-01-16-reasons-business-use-email-marketing/reasons-business-use-email-marketing.jpg
+img: /assets/images/post/2024-01-16-reasons-business-use-email-marketing/reasons-business-use-email-marketing.png
+image: /assets/images/post/2024-01-16-reasons-business-use-email-marketing/reasons-business-use-email-marketing.png
 type: 'BlogPosting'
 tags: business grow marketing email funnel sales
 ---
