@@ -60,10 +60,10 @@ location:
 # WHEN YOU WANT TO HOST WITH THE COMBINATION OF GOOLE TAG MANAGER, ANALYTICS AND OPTIMIZE 
 # (tracking_id, optimize_id, tagmanager_id ARE REQUIRED FIELDS)
 google :
-    tracking_id :  #Id google analitics
+    tracking_id : G-41G2MLR346 #Id google analitics
     optimize_id :  #I'id di google optimize per A/B Testing
-    optimize_experiment_id: ' ' #I'id di dell'esperimento google optimize per A/B Testing
-    tagmanager_id:  'GTM-PHMVZRTG'
+    optimize_experiment_id: #I'id di dell'esperimento google optimize per A/B Testing
+    tagmanager_id: 
     #ad_client:  # id google ADsense (to edit other id's of google ADsense go to /_includes/JB/ads-block-html )
 
 
