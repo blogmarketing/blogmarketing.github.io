@@ -2,8 +2,8 @@
 layout: post
 title: Steps to creating effective buyer personas 
 description:  Unlock the key to targeted marketing and personalized customer experiences by mastering the art of creating effective buyer personas. This comprehensive guide outlines a step-by-step process to help you develop in-depth profiles of your ideal customers, empowering you to tailor your marketing strategies to their unique needs and preferences
-img: /assets/images/post/2024-01-17-use-personalization-boost-sales/use-personalization-boost-sales.jpg
-image: /assets/images/post/2024-01-17-use-personalization-boost-sales/use-personalization-boost-sales.jpg
+img: /assets/images/post/2024-01-17-use-personalization-boost-sales/use-personalization-boost-sales.png
+image: /assets/images/post/2024-01-17-use-personalization-boost-sales/use-personalization-boost-sales.png
 type: 'BlogPosting'
 tags: business grow marketing email funnel sales
 ---
