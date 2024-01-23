@@ -5,7 +5,7 @@ description: In the dynamic world of search engine optimization (SEO), internal 
 img: /assets/images/post/2024-01-22-internal-linking-seo-strategy-guide/internal-linking-seo-strategy-guide.jpg
 image: /assets/images/post/2024-01-22-internal-linking-seo-strategy-guide/internal-linking-seo-strategy-guide.jpg
 type: 'BlogPosting'
-tags: business grow marketing email funnel sales
+tags: business grow marketing seo funnel sales
 ---
 
 In the realm of website development, there's a fundamental element that frequently gets overlooked by novices but plays a pivotal role in success: internal linking.

@@ -5,7 +5,7 @@ description: In today's digital age, online reviews have become the ultimate wor
 img: /assets/images/post/2024-01-21-put-online-reviews-to-work-for-your-business/put-online-reviews-to-work-for-your-business.png
 image: /assets/images/post/2024-01-21-put-online-reviews-to-work-for-your-business/put-online-reviews-to-work-for-your-business.png
 type: 'BlogPosting'
-tags: business grow marketing email funnel sales
+tags: business grow marketing seo funnel sales
 ---
 
 In the competitive world of small businesses, maintaining a steady flow of new customers is a constant battle. After all, expanding your sales is directly linked to expanding your client base. One of the most effective strategies for attracting new customers to your local business is to utilize online reviews to enhance and propagate your brand's reputation.

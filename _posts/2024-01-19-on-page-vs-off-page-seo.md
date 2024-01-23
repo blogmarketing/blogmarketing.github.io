@@ -5,7 +5,7 @@ description: In the realm of search engine optimization SEO, two key strategies 
 img: /assets/images/post/2024-01-19-on-page-vs-off-page-seo/on-page-vs-off-page-seo.jpg
 image: /assets/images/post/2024-01-19-on-page-vs-off-page-seo/on-page-vs-off-page-seo.jpg
 type: 'BlogPosting'
-tags: business grow marketing email funnel sales seo
+tags: business grow marketing seo funnel sales seo
 ---
 
 **Navigating the World of On-Page and Off-Page SEO for Business Growth**
