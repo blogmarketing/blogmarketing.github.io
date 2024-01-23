@@ -28,7 +28,7 @@ tags: business grow marketing email funnel sales
 
 ## What Is SEO?
 
-Search Engine Optimization or SEO is a set of practices that improves a website’s organic (non-paid) search engine ranking. SEO encompasses a wide range of techniques, **[both on-page and off-page]({% 2024-01-19-on-page-vs-off-page-seo %})**, to ensure that search engines understand and rank your website effectively.
+Search Engine Optimization or SEO is a set of practices that improves a website’s organic (non-paid) search engine ranking. SEO encompasses a wide range of techniques, **[both on-page and off-page]({% post_url 2024-01-19-on-page-vs-off-page-seo %})**, to ensure that search engines understand and rank your website effectively.
 
 On-page SEO involves optimizing individual web pages by improving your content, structure, and HTML coding. This includes keyword research and usage, creating high-quality and relevant content, optimizing meta tags and headings, improving page load speed, and ensuring mobile friendliness.
 
@@ -62,7 +62,7 @@ SEO can be confusing, and not just because the rules change every so often, but 
 ### 2: SEO is a marathon, not a sprint
 
 
-**SEO is not a sprint but a marathon. It's an ongoing process that [requires consistent effort]({% 2024-01-20-site-strategies-8-ways-to-keep-website-content-freshs %}) and patience to achieve sustainable results.** Unlike paid search, which delivers instant results, SEO takes time and dedication to build a strong online presence.
+**SEO is not a sprint but a marathon. It's an ongoing process that [requires consistent effort]({% post_url 2024-01-20-site-strategies-8-ways-to-keep-website-content-freshs %}) and patience to achieve sustainable results.** Unlike paid search, which delivers instant results, SEO takes time and dedication to build a strong online presence.
 
 **At its core, SEO is about providing high-quality content that resonates with your target audience. This includes creating fresh, informative, and engaging content that keeps visitors coming back for more. By consistently producing valuable content, you'll establish your website as a trusted source of information and attract organic traffic over time.**
 
