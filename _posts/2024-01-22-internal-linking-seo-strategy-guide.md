@@ -208,7 +208,7 @@ With the groundwork laid and the fundamentals in place, you're well-equipped to 
 
 When you introduce fresh content to your website, strategically integrate internal links to connect it with relevant existing pages. This proactive approach not only ensures that your latest creation receives immediate attention but also grants it the benefits of the link equity accumulated by those well-established pages.
 
-Moreover, these internal links can expedite the indexing process, enabling your new content to be discovered by both users and search engines at a faster pace.
+Moreover, these internal links can expedite the indexing process, enabling your **[new content]({% post_url 2024-01-25-content-marketing-for-small-businesses %})** to be discovered by both users and search engines at a faster pace.
 
 ### Prioritize the important pages on your website
 
