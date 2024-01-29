@@ -298,7 +298,7 @@ Adopt these on-page SEO best practices to guarantee the optimization of your web
 2. Short URLs: Structure your URL to feature the target keyword, such as www.deliciousplace.com/thai-restaurant-new-york.
 3. H1 Tag: Envelop your header in an H1 tag, ensuring it includes the target keyword.
 4. Responsive Design: Assure that your website is designed to offer an appealing experience on mobile devices.
-5. Inclusive Links: Incorporate both outbound links to relevant external websites and **[internal links]({% post_url internal-linking-seo-strategy-guide %})** to your own pages.
+5. Inclusive Links: Incorporate both outbound links to relevant external websites and **[internal links]({% post_url 2024-01-22-internal-linking-seo-strategy-guide %})** to your own pages.
 6. Site Speed: Optimize your website's speed to load within 4 seconds to prevent potential visitors from leaving, signaling to Google that your site is relevant for the target keyword.
 
 ## Link building
