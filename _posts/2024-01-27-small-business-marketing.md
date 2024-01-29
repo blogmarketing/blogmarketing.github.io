@@ -97,7 +97,7 @@ Your customer personas should encompass (at least) the following information:
 
 Group your customers based on commonalities in their characteristics, goals, and pain points. Commence by identifying demographic factors like gender and age range. As you delve deeper into customer insights, incorporate more refined attributes (e.g., their goals and motivations).
 
-Armed with a marketing budget and a clear understanding of your customers, it's time to meticulously construct a comprehensive **[marketing plan]({% post_url 2024-01-25-marketing-plan %})** and strategy tailored to your small business. The remainder of this guide is dedicated to illuminating the intricacies of this process, providing actionable tactics to ensure success.
+Armed with a marketing budget and a clear understanding of your customers, it's time to meticulously construct a comprehensive **[marketing plan]({% post_url 2024-01-24-marketing-plan %})** and strategy tailored to your small business. The remainder of this guide is dedicated to illuminating the intricacies of this process, providing actionable tactics to ensure success.
 
 ## Chapter 2: Creating a Customer-Generating Website Funnel
 
