@@ -16,7 +16,7 @@ In this comprehensive article, we delve into the intricacies of Facebook Ads Man
 
 ## Using Facebook Ads Manager
 
-To utilize Facebook Ads Manager, you must first have a Facebook Ads account (for guidance on setting one up, refer to **[this article]({% post_url 2024-01-28-faceboo-ads-guide %})**). Once your Facebook Ads account is established, accessing Facebook Ads Manager is straightforward. Simply click on the small downward arrow located in the upper left-hand side of your Facebook page and select "Manage Ads."
+To utilize Facebook Ads Manager, you must first have a Facebook Ads account (for guidance on setting one up, refer to **[this article]({% post_url 2024-01-28-facebook-ads-guide %})**). Once your Facebook Ads account is established, accessing Facebook Ads Manager is straightforward. Simply click on the small downward arrow located in the upper left-hand side of your Facebook page and select "Manage Ads."
 
 Upon clicking, Facebook will direct you to the Ad Accounts page, where you can quickly overview all the ad accounts you have access to. If you're managing multiple accounts, you can select the appropriate one from this page.
 
