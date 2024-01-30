@@ -404,6 +404,8 @@ As of the current writing, Facebook boasts a user base exceeding 2 billion globa
 
 Here, I'll outline some essential best practices for campaign setup and ad creation on Facebook:
 
+**[Facebook ADS Guide]({% post_url 2024-01-28-facebook-ads-guide %})**
+
 1. **Target the Right Audience:** Leverage the granular and extensive targeting options offered by Facebook Ads. Utilize your customer personas as a foundation for this targeting strategy. Begin with fundamental demographics and establish distinct audiences for each persona. Delve into their interests, preferred brands, and even specific job roles.
 
 2. **Test Several Ad Types:** Facebook Ads provides a variety of ad formats, including standard image and text, carousel, and video ads. Experiment with multiple formats to discern which resonates most effectively with your audience.
@@ -419,3 +421,5 @@ For small businesses, securing and maintaining customers stand out as paramount 
 By incorporating the strategies and marketing tactics outlined in this guide, you are not only positioning yourself to endure but also to flourish and expand. The pivotal starting point lies in establishing a strong foundation and gaining comprehensive insights into your customers and the broader audience. Without this foundational understanding, identifying your audience and crafting messages that resonate with them becomes challenging.
 
 Which small business and online marketing tools and strategies are you currently experimenting with? What successes have you encountered so far?
+
+
