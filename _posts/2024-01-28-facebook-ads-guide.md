@@ -82,7 +82,7 @@ You have the freedom to run ads with almost all placement options selected, unle
 
 ### 5. Set Your Budget
 
-In the upcoming segment, you gain the ability to customize your budget, set ad schedules, and pick an optimization method. You have the flexibility to opt for either a lifetime budget or a daily budget, with the option to run ads continuously or schedule them for specific start and end dates. Additionally, you can leverage dayparting, allowing you to showcase your ads at specific times or on particular days of the week.
+In the upcoming segment, you gain the ability to **[customize your budget]({% post_url 2024-01-30-how-much-should-you-invest-planning-your-facebook-budget %})**, set ad schedules, and pick an optimization method. You have the flexibility to opt for either a lifetime budget or a daily budget, with the option to run ads continuously or schedule them for specific start and end dates. Additionally, you can leverage dayparting, allowing you to showcase your ads at specific times or on particular days of the week.
 
 At this juncture, you can decide whether to optimize your ads. For those cautious about this aspect, Facebook provides automatic settings, and I'd recommend manual adjustments only for those well-acquainted with the platform and with specific reasons to do so.
 
