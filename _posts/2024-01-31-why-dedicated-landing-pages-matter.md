@@ -2,8 +2,8 @@
 layout: post
 title: Why Dedicated Landing Pages Matter
 description: Discover why dedicated landing pages matter in your marketing strategy. Explore the benefits of creating specialized pages for your campaigns to boost conversions and enhance user experience. Learn how targeted landing pages can make a significant impact on your online success. 
-img: /assets/images/post/2024-01-31-why-dedicated-landing-pages-matter/why-dedicated-landing-pages-matter.jpg
-image: /assets/images/post/2024-01-31-why-dedicated-landing-pages-matter/why-dedicated-landing-pages-matter.jpg
+img: /assets/images/post/2024-01-31-why-dedicated-landing-pages-matter/why-dedicated-landing-pages-matter.png
+image: /assets/images/post/2024-01-31-why-dedicated-landing-pages-matter/why-dedicated-landing-pages-matter.png
 type: 'BlogPosting'
 tags: business grow marketing email funnel sales
 ---
