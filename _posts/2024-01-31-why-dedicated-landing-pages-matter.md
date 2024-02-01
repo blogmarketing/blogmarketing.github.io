@@ -22,7 +22,7 @@ A landing page, as the name implies, is the initial page your potential customer
 
 Consequently, your landing page serves as a gateway for customers, aiming to prompt them to take a specific action. This action typically involves inviting your target audience to perform a valuable action for your business, commonly referred to as a conversion.
 
-While a conversion can take various forms, the goal is often to obtain information from visitors, such as an email address. This information enables you to reach out to them later with more enticing or personalized offers.
+While a **[conversion can take various forms]({% post_url 2024-02-01-conversion-rate %})**, the goal is often to obtain information from visitors, such as an email address. This information enables you to reach out to them later with more enticing or personalized offers.
 
 From a technical standpoint, the landing page is the first page visitors encounter on your site. However, in the context of paid online advertising campaigns, you have the flexibility to choose the specific page your ads direct people to.
 
