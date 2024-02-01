@@ -34,7 +34,7 @@ In summary, while traditional lead generation methods have their place, they are
 
 Lead generation software, as its name suggests, is a specialized tool designed to automate and streamline the lead generation process for businesses. These sophisticated tools offer a range of features that help businesses attract, capture, and nurture potential customers more effectively. Some of the key features of lead generation software include:
 
-- **Lead capture forms:** These forms are embedded on websites, blogs, or landing pages to gather essential information about prospects, such as contact details and interests.
+- **Lead capture forms:** These forms are embedded on websites, blogs, or **[landing pages]({% post_url 2024-01-25-create-product-landing-page-sells %})** to gather essential information about prospects, such as contact details and interests.
 
 - **Lead scoring:** Lead generation software analyzes leads based on various criteria, including contact information, website activity, and engagement with business content. This scoring system helps businesses prioritize leads based on their potential value.
 

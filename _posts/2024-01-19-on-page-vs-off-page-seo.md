@@ -250,7 +250,7 @@ To effectively engage online and maximize its impact on your off-page SEO, consi
 
 4. **Use Brand Name Strategically:** Use your brand name consistently in your online interactions to establish brand recognition and authority.
 
-5. **Link to Your Website:** When appropriate, include links to your website or relevant landing pages to drive traffic and increase organic search visibility.
+5. **Link to Your Website:** When appropriate, include links to your website or relevant **[landing pages]({% post_url 2024-01-31-why-dedicated-landing-pages-matter %})** to drive traffic and increase organic search visibility.
 
 **Conclusion: A Holistic Approach to Off-Page SEO**
 

@@ -68,7 +68,7 @@ PPC campaigns revolve around keyword bidding, where advertisers compete to have 
 
 **The Bidding Process: A Tale of Competition and Relevance**
 
-When a user enters a search query, a PPC auction unfolds behind the scenes. Advertisers, having strategically bid on relevant keywords, vie for the opportunity to have their ads displayed alongside the search results. The search engine meticulously assesses each ad's relevance, quality, and landing page experience, assigning a higher ranking to those that excel.
+When a user enters a search query, a PPC auction unfolds behind the scenes. Advertisers, having strategically bid on relevant keywords, vie for the opportunity to have their ads displayed alongside the search results. The search engine meticulously assesses each ad's relevance, quality, and **[landing page experience]({% post_url 2024-01-31-why-dedicated-landing-pages-matter %})**, assigning a higher ranking to those that excel.
 
 **The Ad's Arrival: A Journey from Click to Conversion**
 
