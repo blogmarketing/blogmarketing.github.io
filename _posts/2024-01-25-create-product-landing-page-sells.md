@@ -164,7 +164,7 @@ Here's steps to your landing page with out service:
 
 3. **Match Your Brand:** Ensure your landing page seamlessly integrates with your overall brand identity. Add your logo, select complementary fonts, replicate your brand colors, and more using our comprehensive suite of features. 
 
-4. **Optimize for Mobile:** In today's mobile-first world, it's crucial to ensure your landing page renders flawlessly on smartphones and tablets. We always use responsive designs, automatically adapt to various screen sizes, delivering an optimal user experience regardless of the device being used.
+4. **Optimize for Mobile:** In today's mobile-first world, it's crucial to ensure your **[landing page renders flawlessly on smartphones and tablets]({% post_url 2024-02-02-7-tips-for-creating-a-mobile-friendly-website %})**. We always use responsive designs, automatically adapt to various screen sizes, delivering an optimal user experience regardless of the device being used.
 
 With this list, you have the power to craft compelling landing pages that effectively capture attention, convey your message, and drive conversions. 
 
