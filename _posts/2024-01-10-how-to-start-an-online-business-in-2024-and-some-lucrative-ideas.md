@@ -37,7 +37,7 @@ Elevate your thrifting passion to greater heights by scouring thrift stores for 
 
 ### 4: Teach an online course
 
-Transform your **proficiency** into an economical online venture by creating an **online course**. Select a topic that ignites your passion and dissect it systematically through captivating video tutorials. While it demands initial effort, the potential for continuous earnings arises as more individuals enroll in your course. Employ applications for seamless video recording and editing. If you're already a blogger, maintain your website, or oversee a video channel, incorporating online courses can enhance your existing content and position you as an **authority** in your domain. It offers a gratifying and expansive avenue to disseminate your expertise while generating income.
+Transform your **proficiency** into an economical online venture by creating an **[online course]({% post_url 2024-02-03-the-ultimate-guide-to-creating-an-online-course %})**. Select a topic that ignites your passion and dissect it systematically through captivating video tutorials. While it demands initial effort, the potential for continuous earnings arises as more individuals enroll in your course. Employ applications for seamless video recording and editing. If you're already a blogger, maintain your website, or oversee a video channel, incorporating online courses can enhance your existing content and position you as an **authority** in your domain. It offers a gratifying and expansive avenue to disseminate your expertise while generating income.
 
 
 ### 5: Become an affiliate marketer
@@ -106,3 +106,4 @@ For those with a social media presence, it is imperative to **respond promptly**
 ## Ready to turn your idea into a successful online business? 
 
 **Online selling** has maintained its popularity for numerous years, experiencing heightened prominence during the peak of the pandemic when face-to-face interactions became limited. Presently, it has evolved into a standard practice in the business realm. If you're not engaged in online selling today, you're undeniably overlooking potential opportunities.
+
