@@ -36,7 +36,7 @@ Now, let's dive into the essential steps for building and launching your online 
 
 Effectively marketing your online course is the key to reaching a broader audience and increasing profitability. Explore these strategies to boost the visibility of your online course:
 
-1. **[Email Marketing:]({% post_url 2024-01-16-reasons-business-use-email-marketing %})** Cultivate an email list comprising potential students or interested individuals. Engage them with valuable content through regular newsletters, course updates, and promotional emails. Craft compelling subject lines and personalized messages to encourage enrollment.
+1. **[Email Marketing:]({% post_url 2024-01-16-reasons-business-use-email-marketing %})** Cultivate an email list comprising potential students or interested individuals. Engage them with valuable content through regular newsletters, course updates, and promotional emails. Craft compelling subject lines and personalized messages to encourage enrollment, **[Check thi guide]({% post_url 2024-02-04-guide-grow-email-list %})**.
 
 2. **Social Media Promotion:** Harness the power of social media platforms to showcase your learning hub. Share course content snippets, highlight success stories from previous students, and foster engagement through polls, Q&A sessions, and live videos. Utilize relevant hashtags to expand your reach.
 
