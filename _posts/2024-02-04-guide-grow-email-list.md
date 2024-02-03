@@ -2,8 +2,8 @@
 layout: post
 title: Email marketing success, How to grow your email list
 description: Unlock the secrets to email marketing triumph with our comprehensive guide on growing your email list. Discover expert strategies and actionable insights to enhance your email marketing success. Elevate your business by learning proven techniques to expand and optimize your email list effectively.
-img: /assets/images/post/2024-02-04-guide-grow-email-list/guide-grow-email-list.jpg
-image: /assets/images/post/2024-02-04-guide-grow-email-list/guide-grow-email-list.jpg
+img: /assets/images/post/2024-02-04-guide-grow-email-list/guide-grow-email-list.png
+image: /assets/images/post/2024-02-04-guide-grow-email-list/guide-grow-email-list.png
 type: 'BlogPosting'
 tags: business grow marketing email funnel sales
 ---
