@@ -40,7 +40,7 @@ Effectively marketing your online course is the key to reaching a broader audien
 
 2. **Social Media Promotion:** Harness the power of social media platforms to showcase your learning hub. Share course content snippets, highlight success stories from previous students, and foster engagement through polls, Q&A sessions, and live videos. Utilize relevant hashtags to expand your reach.
 
-3. **Content Marketing:** Generate informative and captivating content related to your course topic. Initiate a blog, conduct webinars, or provide free resources like ebooks or guides. Content marketing not only demonstrates your expertise but also drives sign-ups to your online course.
+3. **Content Marketing:** Generate informative and captivating content related to your course topic. **[Initiate a blog]({% post_url 2024-02-04-does-your-website-need-a-blog %})**, conduct webinars, or provide free resources like ebooks or guides. Content marketing not only demonstrates your expertise but also drives sign-ups to your online course.
 
 4. **Paid Advertising:** Consider running targeted paid advertising campaigns on platforms such as Google Ads or social media. Tailor your ads to specific demographics, interests, and behaviors, ensuring they reach potential students who are more likely to enroll.
 
