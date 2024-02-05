@@ -2,8 +2,8 @@
 layout: post
 title: How to attract more visitors to your site 
 description: Discover effective strategies on how to attract a surge of visitors to your website. From optimizing content for search engines to leveraging social media and other traffic-driving techniques, learn the proven methods that will elevate your site's visibility and engagement.
-img: /assets/images/post/2024-02-06-website-attract-new-customers/website-attract-new-customers.jpg
-image: /assets/images/post/2024-02-06-website-attract-new-customers/website-attract-new-customers.jpg
+img: /assets/images/post/2024-02-06-website-attract-new-customers/website-attract-new-customers.png
+image: /assets/images/post/2024-02-06-website-attract-new-customers/website-attract-new-customers.png
 type: 'BlogPosting'
 tags: business grow marketing email funnel sales
 ---
