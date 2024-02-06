@@ -92,7 +92,7 @@ You have an array of market research techniques at your disposal to extract valu
 
 20. **A/B Testing:** Compare two versions of a webpage, advertisement, or product to determine which performs better in terms of user engagement or conversion rates.
 
-21. **Customer Journey Mapping:** Visualize and analyze the various touchpoints and interactions a customer has with a brand to improve the overall customer experience.
+21. **Customer Journey Mapping:** Visualize and analyze the various touchpoints and interactions a customer has with a brand to **[improve the overall customer experience]({% post_url 2024-02-08-personalize-online-customer-experience %})**.
 
 ## How market research can help small businesses 
 
