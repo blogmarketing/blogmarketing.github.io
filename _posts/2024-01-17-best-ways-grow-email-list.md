@@ -220,7 +220,7 @@ By leveraging data-driven segmentation, you can craft personalized and engaging 
 
 **Beyond Collection: Strategies to Amplify Email List Growth**
 
-While acquiring email addresses is crucial, expanding your list requires more than just passive collection. By optimizing your **[pay-per-click](https://www.web.com/blog/the-ultimate-ppc-strategy-for-small-businesses/)** (PPC) strategy and embracing conversion rate optimization (CRO), you can effectively leverage your website traffic, driving a surge in subscriber growth.
+While acquiring email addresses is crucial, expanding your list requires more than just passive collection. By optimizing your **[Pay per click]({% post_url 2024-02-09-the-ultimate-ppc-strategy-for-small-businesses %})** (PPC) strategy and embracing conversion rate optimization (CRO), you can effectively leverage your website traffic, driving a surge in subscriber growth.
 
 1. **PPC Optimization:** Treat your PPC ads like digital billboards, strategically placed to capture attention and drive conversions. Utilize search engines and social media platforms to showcase enticing sign-up offers, ensuring your ads align with your target audience's interests. Continuously monitor your ad spend and conversion rates to determine the effectiveness of your campaigns and make necessary adjustments.
 
