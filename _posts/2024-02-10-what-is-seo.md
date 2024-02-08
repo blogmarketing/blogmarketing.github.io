@@ -93,7 +93,7 @@ Consider your website's URL structure as the blueprint of a building. Having des
 
 ### Internal linking strategies
 
-Internal links are pathways within your website that connect one page to another, aiding users in navigation and exploration of related content. Additionally, internal linking assists search engines in comprehending your website's organization and hierarchy.
+Internal links are pathways within your website that connect one page to another, aiding users in navigation and exploration of related content. Additionally, **[internal linking assists search engines]({% 2024-02-11-internal-linking-seo-strategy-guide %})** in comprehending your website's organization and hierarchy.
 
 When devising your internal linking strategy, prioritize relevance—link only to pages that are contextually appropriate. Employ descriptive anchor text (the linked text) to offer transparency regarding the destination of the link.
 
