@@ -121,7 +121,7 @@ Whenever you publish new content, leverage internal links to connect it with rel
 
 ### Prioritize Important Pages on Your Website
 
-Identify pivotal pages on your website, such as product **[showcases or landing pages]({% 2024-01-25-create-product-landing-page-sells %})**, that play a central role in achieving your goals, whether it's driving sales, gathering leads, or sharing vital information. By strategically interlinking these pages from various parts of your site, you emphasize their importance to both users and search engines. This emphasis not only guides visitors toward these key destinations but also reinforces their link value.
+Identify pivotal pages on your website, such as product **[showcases or landing pages]({% post_url 2024-01-25-create-product-landing-page-sells %})**, that play a central role in achieving your goals, whether it's driving sales, gathering leads, or sharing vital information. By strategically interlinking these pages from various parts of your site, you emphasize their importance to both users and search engines. This emphasis not only guides visitors toward these key destinations but also reinforces their link value.
 
 ### Address Broken Links
 
