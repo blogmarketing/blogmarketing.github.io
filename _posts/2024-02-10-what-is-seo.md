@@ -5,7 +5,7 @@ description: Enhance your grasp of search engine optimization (SEO) with our com
 img: /assets/images/post/2024-02-10-what-is-seo/what-is-seo.jpg
 image: /assets/images/post/2024-02-10-what-is-seo/what-is-seo.jpg
 type: 'BlogPosting'
-tags: business grow marketing email funnel sales
+tags: business grow marketing email funnel sales seo
 ---
 
 ## Everything you need to know about search engine optimization (SEO)
