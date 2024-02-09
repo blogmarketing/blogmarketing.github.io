@@ -36,7 +36,7 @@ A prime example of successful social media engagement is Wendy's, the fast-food 
 
 ### Team up with influencers
 
-Influencers are the tastemakers of the digital world, and teenagers deeply admire them. **[Collaborating with influencers](https://www.web.com/blog/get-connected-use-social-influencers-grow-small/)** who share your brand's values and resonate with your target audience can significantly expand your reach. Encourage them to create authentic and relatable content that authentically reflects your brand's essence. This influencer-powered connection can elevate your brand's credibility and cool factor among the teenage demographic.
+Influencers are the tastemakers of the digital world, and teenagers deeply admire them. Collaborating with influencers who share your brand's values and resonate with your target audience can significantly expand your reach. Encourage them to create authentic and relatable content that authentically reflects your brand's essence. This influencer-powered connection can elevate your brand's credibility and cool factor among the teenage demographic.
 
 ### Make your marketing efforts fun and interactive
 

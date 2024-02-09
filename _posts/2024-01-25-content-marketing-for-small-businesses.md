@@ -29,7 +29,7 @@ At its core, content marketing is a long-term strategy that serves businesses of
 
 As an online store proprietor, your focus cannot solely lie on your products. You must also incorporate relevant content to captivate and engage your target audience. Identifying the right content and effectively implementing it can be a daunting task.
 
-Whether your store resides on **[eBay](https://www.web.com/blog/selling-on-ebay/)** or Etsy, or you operate your own Shopify website, the content you publish can significantly impact site traffic and boost sales. To assist you, we've compiled a list of the most effective content types for eCommerce websites, along with strategies to help you produce it effectively.
+Whether your store resides on eBay or Etsy, or you operate your own Shopify website, the content you publish can significantly impact site traffic and boost sales. To assist you, we've compiled a list of the most effective content types for eCommerce websites, along with strategies to help you produce it effectively.
 
 To thrive in the competitive eCommerce landscape, you must go beyond simply showcasing your products. By creating engaging and valuable content, you can establish a strong brand presence, attract new customers, and ultimately boost your sales.
 

@@ -38,7 +38,7 @@ Despite your initial success, you've noticed a recent decline in website traffic
 
 Here are eight ways to keep your content fresh – and keep your brand followers coming back for more.
 
-## 1. Evaluate Your Content with Web.com’s Website Grader
+## 1. Evaluate Your Content with Blogmarketing’s Website Grader
 
 Seek a comprehensive assessment of your website's strengths and areas for improvement with **[Hubspot Website Grader](https://website.grader.com/)**. This tool meticulously evaluates your website from an online search engine's perspective, ensuring it possesses the essential elements to attract visitors. Its user-friendly interface delivers valuable insights that don't demand extensive expertise or training to comprehend.
 

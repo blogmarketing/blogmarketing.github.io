@@ -154,7 +154,7 @@ To create a visually compelling landing page experience, carefully select images
 
 ### Design your landing page
 
-Creating an effective landing page is easier than you might imagine, especially with the help of advanced website builders like Web.com. With our services of **[creating landing pages](https://www.fiverr.com/officialtrento/design-redesign-develop-a-business-website-with-html-css)** even if you lack technical expertise will helps. 
+Creating an effective landing page is easier than you might imagine, especially with the help of advanced website builders like Blogmarketing. With our services of **[creating landing pages](https://www.fiverr.com/officialtrento/design-redesign-develop-a-business-website-with-html-css)** even if you lack technical expertise will helps. 
 
 Here's steps to your landing page with out service:
 

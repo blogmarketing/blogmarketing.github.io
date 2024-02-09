@@ -18,7 +18,7 @@ By prioritizing user-friendliness and making it effortless for customers to leav
 
 ### Google Business Profile
 
-Earlier known as Google My Business, **[Google Business Profile](https://www.web.com/blog/start/website-design/do-i-need-website-or-google-my-business-enough)** now stands as one of the primary platforms where customers encounter your reviews. Alongside a compelling website, having a Google Business Profile is an indispensable tool for businesses seeking to establish a strong online presence. And the most appealing aspect of this feature is its affordability – Google Business Profile is completely free to use!
+Earlier known as Google My Business, Google Business Profile now stands as one of the primary platforms where customers encounter your reviews. Alongside a compelling website, having a Google Business Profile is an indispensable tool for businesses seeking to establish a strong online presence. And the most appealing aspect of this feature is its affordability – Google Business Profile is completely free to use!
 
 ### Yelp
 

@@ -73,7 +73,7 @@ Three primary search engines are commonly employed by individuals to locate info
 
 ### On-page SEO
 
-On-page SEO involves optimizing specific elements of your webpages to enhance their visibility and relevance for both search engines and users. This optimization encompasses various practices, such as:
+**[On-page SEO]({% post_url 2024-02-12-on-page-vs-off-page-seo %})** involves optimizing specific elements of your webpages to enhance their visibility and relevance for both search engines and users. This optimization encompasses various practices, such as:
 
 ### Keyword research and analysis
 
@@ -99,7 +99,7 @@ When devising your internal linking strategy, prioritize relevance—link only t
 
 ### Off-page SEO
 
-Off-page SEO encompasses the tactics and endeavors undertaken beyond the confines of your website to enhance its prominence and trustworthiness in search engine rankings. 
+**[Off-page SEO]({% post_url 2024-02-12-on-page-vs-off-page-seo %})** encompasses the tactics and endeavors undertaken beyond the confines of your website to enhance its prominence and trustworthiness in search engine rankings. 
 
 While on-page SEO concentrates on refining your content and website components, off-page SEO pertains to elements beyond your direct influence yet capable of influencing your site's standing and perception.
 
