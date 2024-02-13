@@ -2,8 +2,8 @@
 layout: post
 title: How to Do Business on the Web in 2024
 description: In todays digital landscape, funnels are essential tools for businesses to attract leads, convert them into paying customers, and achieve sustainable growth. This comprehensive guide will equip you with the knowledge and strategies to create and implement effective funnels for your web business.
-img: /assets/images/post/2024-01-09-how-to-do-business-on-the-web-in-2024/header-how-to-do-business-on-the-web-in-2024.jpg
-image: /assets/images/post/2024-01-09-how-to-do-business-on-the-web-in-2024/header-how-to-do-business-on-the-web-in-2024.jpg
+img: /assets/images/post/2024-01-09-how-to-do-business-on-the-web-in-2024/how-to-do-business-on-the-web-in-2024.jpg
+image: /assets/images/post/2024-01-09-how-to-do-business-on-the-web-in-2024/how-to-do-business-on-the-web-in-2024.jpg
 type: 'BlogPosting'
 tags: business funnel money marketing
 ---
