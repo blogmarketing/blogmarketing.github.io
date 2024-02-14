@@ -85,7 +85,7 @@ In-depth knowledge of your chosen product category is invaluable. Familiarity wi
 
 ### Choose products that fit your management style:
 
-Every entrepreneur has a distinct approach to managing their business. Consider your preferred level of involvement in various aspects of the supply chain, from logistics to marketing. Whether you prefer hands-on management or delegating responsibilities, prioritize products that align with your management style.
+Every entrepreneur has a distinct approach to managing their business. Consider your preferred level of involvement in various aspects of the supply chain, from logistics to marketing. Whether you prefer hands-on management or delegating responsibilities, prioritize products that align with your **[business model]({% post_url 2024-02-24-how-to-choose-your-ecommerce-business-model %})**.
 
 ### Choose products that address customer pain points:
 
