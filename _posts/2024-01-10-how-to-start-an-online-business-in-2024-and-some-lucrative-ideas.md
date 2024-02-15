@@ -20,7 +20,7 @@ To facilitate your embarkation, we've assembled a compilation of online business
 
 If the concept of having an online store appeals to you but you prefer to steer clear of the intricacies of storing items, contemplate **dropshipping**. It presents a _cost-effective_ approach to kickstart a business.
 
-With **dropshipping**, you have the ability to vend products online sans the burden of managing inventory. Once a purchase is made, you simply forward the order to another company handling products and shipping. This circumvents upfront costs and the peril of being burdened with unsold items. Conduct your business effortlessly from any location with WiFi, provide a diverse array of products, and effortlessly adjust to emerging trends or modify your offerings. It offers a _versatile_ method for operating an online store without the headaches associated with storage.
+With **[dropshipping]({% post_url 2024-02-27-what-is-dropshipping %})**, you have the ability to vend products online sans the burden of managing inventory. Once a purchase is made, you simply forward the order to another company handling products and shipping. This circumvents upfront costs and the peril of being burdened with unsold items. Conduct your business effortlessly from any location with WiFi, provide a diverse array of products, and effortlessly adjust to emerging trends or modify your offerings. It offers a _versatile_ method for operating an online store without the headaches associated with storage.
 
 
 ### 2: Learn to become a social media manager 
