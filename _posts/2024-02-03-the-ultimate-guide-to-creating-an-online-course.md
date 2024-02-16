@@ -79,7 +79,7 @@ Less-than-ideal KPIs aren't the end of the world; they simply indicate the need 
 
 4. **Marketing Adjustments:** If certain marketing channels or strategies fall short of expectations, consider reallocating your marketing budget and efforts to more effective avenues.
 
-5. **A/B Testing:** Experiment with different course layouts, content formats, or pricing models through A/B testing. Analyze performance variations and iterate accordingly.
+5. **A/B Testing:** Experiment with different course layouts, content formats, or pricing models **[through A/B testing]({% post_url 2024-02-28-ab-testing %})**. Analyze performance variations and iterate accordingly.
 
 6. **Learner Surveys:** Conduct periodic surveys to directly gather feedback from your audience. Use this valuable input to inform informed course enhancements.
 
