@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Market research, Your guide to understanding your customers’ needs
+title: Customer Needs, Your Market Research Guide
 description: Master market research with our guide. Gain insights into customer needs, refine strategies, and elevate your business in a competitive market.
 img: /assets/images/post/2024-02-07-how-to-do-market-research/how-to-do-market-research.jpg
 image: /assets/images/post/2024-02-07-how-to-do-market-research/how-to-do-market-research.jpg

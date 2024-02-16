@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Marketing advise, put online reviews to work for your business
+title: Utilize Online Reviews for Business
 description: Online reviews are modern word-of-mouth, shaping consumer decisions and brand reputations. Leverage them for marketing success and business growth.
 img: /assets/images/post/2024-01-21-put-online-reviews-to-work-for-your-business/put-online-reviews-to-work-for-your-business.png
 image: /assets/images/post/2024-01-21-put-online-reviews-to-work-for-your-business/put-online-reviews-to-work-for-your-business.png

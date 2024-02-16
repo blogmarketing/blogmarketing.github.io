@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Email marketing 6 reasons why it’s vital for your business in 2024
+title: Email Marketing, 6 Vital Reasons in 2024
 description: Email, a vital tool in digital marketing, persists as a powerhouse for businesses. Discover six reasons why it's essential for your business in 2024.
 img: /assets/images/post/2024-01-16-reasons-business-use-email-marketing/reasons-business-use-email-marketing.png
 image: /assets/images/post/2024-01-16-reasons-business-use-email-marketing/reasons-business-use-email-marketing.png

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Understanding search engine optimization, What is SEO?
+title: SEO Essentials, What is SEO?
 description: Master SEO with our guide. Explore its definition, key concepts, and impact on online visibility. Unlock the potential of optimizing your website for search engines.
 img: /assets/images/post/2024-02-10-what-is-seo/what-is-seo.jpg
 image: /assets/images/post/2024-02-10-what-is-seo/what-is-seo.jpg

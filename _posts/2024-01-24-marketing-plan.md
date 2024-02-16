@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Navigating the marketing landscape, A guide to crafting a marketing plan
+title: Mastering Marketing, Crafting Your Plan
 description: From market research to channel selection, we guide you through every step. Learn to measure results and adapt strategies effectively.
 img: /assets/images/post/2024-01-24-marketing-plan/marketing-plan.jpg
 image: /assets/images/post/2024-01-24-marketing-plan/marketing-plan.jpg

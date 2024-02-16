@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Mastering SEO, how optimizing your strategy yields 9 key benefits
+title: SEO Mastery, 9 Key Benefits
 description: Explore SEO's power! Uncover 9 key benefits, boost traffic, enhance visibility. Mastering SEO is crucial for online growth.
 img: /assets/images/post/2024-02-14-benefits-of-seo/benefits-of-seo.png
 image: /assets/images/post/2024-02-14-benefits-of-seo/benefits-of-seo.png

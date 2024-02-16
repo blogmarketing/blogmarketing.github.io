@@ -1,6 +1,6 @@
 ---
 layout: post
-title: What is PPC for small business + how it benefits your business in 2024
+title: PPC Benefits for Small Biz in 2024
 description: Explore the potential of PPC for your small business in 2024. Learn its benefits and how it enhances online presence and revenue.
 img: /assets/images/post/2024-02-09-the-ultimate-ppc-strategy-for-small-businesses/the-ultimate-ppc-strategy-for-small-businesses.jpg
 image: /assets/images/post/2024-02-09-the-ultimate-ppc-strategy-for-small-businesses/the-ultimate-ppc-strategy-for-small-businesses.jpg

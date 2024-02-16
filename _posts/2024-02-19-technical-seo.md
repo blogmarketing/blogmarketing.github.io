@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Technical SEO simplified, Essential steps for a powerful online presence
+title: Simplified Technical SEO, Essential Steps
 description: Master Technical SEO with our simplified guide! Elevate your online presence with essential steps tailored for success. Dive in and propel your website to new heights!
 img: /assets/images/post/2024-02-19-technical-seo/technical-seo.png
 image: /assets/images/post/2024-02-19-technical-seo/technical-seo.png

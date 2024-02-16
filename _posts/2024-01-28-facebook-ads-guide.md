@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Facebook Ads Guide for Beginners, How to Rock Your First Campaign
+title: Facebook Ads Guide for Beginners
 description: Master Facebook advertising with our beginner's guide! Launch and optimize your first campaign effortlessly. Maximize ROI with expert tips.
 img: /assets/images/post/2024-01-28-facebook-ads-guide/facebook-ads-guide.jpg
 image: /assets/images/post/2024-01-28-facebook-ads-guide/facebook-ads-guide.jpg

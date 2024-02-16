@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to create a content calendar for your small business
+title: Crafting a Small Business Content Calendar
 description: A content calendar keeps small businesses organized and on track with content marketing efforts, aiding in planning, scheduling, and assigning tasks.
 img: /assets/images/post/2024-01-23-how-to-create-a-content-calendar-for-your-small-business/how-to-create-a-content-calendar-for-your-small-business.jpg
 image: /assets/images/post/2024-01-23-how-to-create-a-content-calendar-for-your-small-business/how-to-create-a-content-calendar-for-your-small-business.jpg

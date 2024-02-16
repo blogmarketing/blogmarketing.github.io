@@ -1,6 +1,6 @@
 ---
 layout: post
-title: What is schema markup? Does schema impact SEO performance in 2024?
+title: Schema Markup, Impact on SEO?
 description: Explore the potency of schema markup in SEO! Learn its definition and impact on SEO in 2024. Stay ahead by maximizing schema's benefits for boosted visibility and traffic.
 img: /assets/images/post/2024-02-20-what-is-schema-markup-seo-benefits/what-is-schema-markup-seo-benefits.png
 image: /assets/images/post/2024-02-20-what-is-schema-markup-seo-benefits/what-is-schema-markup-seo-benefits.png

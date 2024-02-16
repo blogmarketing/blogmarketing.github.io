@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to create a strong internal linking strategy for your website and SEO 
+title: Mastering Internal Linking for SEO
 description: Internal linking in SEO is vital, guiding users to valuable content and enhancing visibility. Strategically connect relevant pages for optimal results.
 img: /assets/images/post/2024-01-22-internal-linking-seo-strategy-guide/internal-linking-seo-strategy-guide.jpg
 image: /assets/images/post/2024-01-22-internal-linking-seo-strategy-guide/internal-linking-seo-strategy-guide.jpg

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: What is Conversion Rate? How to Calculate and Improve Your Conversion Rate
+title: Boost Conversions, Know and Improve Conversion Rate
 description: Discover Conversion Rate Optimization secrets! Calculate and boost conversions for online success. Elevate your digital marketing game now!
 img: /assets/images/post/2024-02-01-conversion-rate/conversion-rate.png
 image: /assets/images/post/2024-02-01-conversion-rate/conversion-rate.png

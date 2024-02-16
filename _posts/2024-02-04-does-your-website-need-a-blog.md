@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Benefits of having a blog on your small business website
+title: Blogging for Small Business Success
 description: Elevate your small business with a compelling blog. Connect with your audience, build relationships, and establish expertise for lasting success.
 img: /assets/images/post/2024-02-04-does-your-website-need-a-blog/does-your-website-need-a-blog.jpg
 image: /assets/images/post/2024-02-04-does-your-website-need-a-blog/does-your-website-need-a-blog.jpg

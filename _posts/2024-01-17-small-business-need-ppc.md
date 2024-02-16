@@ -1,6 +1,6 @@
 ---
 layout: post
-title: What is PPC for small business + how it benefits your business in 2024 
+title: What is PPC for small business + its 2024 benefits
 description: Stand out in the digital crowd! PPC marketing puts your business on SERPs, driving targeted traffic to your site—crucial for small businesses.
 img: /assets/images/post/2024-01-17-small-business-need-ppc/small-business-need-ppc.jpg
 image: /assets/images/post/2024-01-17-small-business-need-ppc/small-business-need-ppc.jpg

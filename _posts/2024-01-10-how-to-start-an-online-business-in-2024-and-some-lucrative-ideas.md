@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to start an online business in 2024 and some lucrative ideas
+title: Starting an Online Business in 2024
 description: Today, digital funnels are vital for lead conversion and business growth. Get equipped with strategies for effective implementation in this guide.
 img: /assets/images/post/2024-01-10-how-to-start-an-online-business-in-2024-and-some-lucrative-ideas/how-to-start-an-online-business-in-2024-and-some-lucrative-ideas.jpg
 image: /assets/images/post/2024-01-10-how-to-start-an-online-business-in-2024-and-some-lucrative-ideas/how-to-start-an-online-business-in-2024-and-some-lucrative-ideas.jpg

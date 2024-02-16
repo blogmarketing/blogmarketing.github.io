@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Website design best practices, make it easy for customers to find your products and services
+title: Optimal Website Design, Simplify Navigation
 description: Optimize your website design for maximum impact! Discover best practices for seamless navigation and enhanced user experience.
 img: /assets/images/post/2024-02-15-website-design-best-practices/website-design-best-practices.jpg
 image: /assets/images/post/2024-02-15-website-design-best-practices/website-design-best-practices.jpg

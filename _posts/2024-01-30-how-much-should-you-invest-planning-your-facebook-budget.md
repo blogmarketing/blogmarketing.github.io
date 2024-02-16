@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How Much Should You Invest? Planning Your Facebook Budget
+title: Facebook Budgeting, How Much to Invest?
 description: Discover budget planning secrets for effective Facebook ads. Tailor your investment, optimize spend, and maximize results with our guide.
 img: /assets/images/post/2024-01-30-how-much-should-you-invest-planning-your-facebook-budget/how-much-should-you-invest-planning-your-facebook-budget.jpg
 image: /assets/images/post/2024-01-30-how-much-should-you-invest-planning-your-facebook-budget/how-much-should-you-invest-planning-your-facebook-budget.jpg

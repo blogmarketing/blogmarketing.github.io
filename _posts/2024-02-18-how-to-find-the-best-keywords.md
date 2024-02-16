@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to find the most successful keywords for your business
+title: Optimize Your Business Keywords
 description: Uncover top keywords for your business with expert tips. Boost online visibility by mastering strategic keyword research. Optimize content for SEO success.
 img: /assets/images/post/2024-02-18-how-to-find-the-best-keywords/how-to-find-the-best-keywords.png
 image: /assets/images/post/2024-02-18-how-to-find-the-best-keywords/how-to-find-the-best-keywords.png

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 7 marketing strategies to target teen audience effectively
+title: Effective Teen Marketing, 7 Strategies
 description: Implement these strategies to precisely target teens and foster a robust connection with this influential demographic.
 img: /assets/images/post/2024-01-18-successful-way-market-to-teens/successful-way-market-to-teens.jpg
 image: /assets/images/post/2024-01-18-successful-way-market-to-teens/successful-way-market-to-teens.jpg

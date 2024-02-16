@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Marketing Strategy What It Is, How It Works, How To Create One
+title: Marketing Strategy. Definition, Creation, Execution
 description: Essential for all entrepreneurs, grasp marketing strategy basics for business growth and goal achievement, whether starting or seasoned.
 img: /assets/images/post/2024-01-12-marketing-strategy-what-it-is-how-it-works-how-to-create-one/marketing-strategy-what-it-is-how-it-works-how-to-create-one.jpg
 image: /assets/images/post/2024-01-12-marketing-strategy-what-it-is-how-it-works-how-to-create-one/marketing-strategy-what-it-is-how-it-works-how-to-create-one.jpg
