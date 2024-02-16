@@ -63,7 +63,7 @@ Utilizing excessive capitalization or exclamation points can convey an aggressiv
 
 **Capitalized Email:**
 
-_Subject: REQUEST FOR THE QUARTERLY SALES REPORT
+*Subject: REQUEST FOR THE QUARTERLY SALES REPORT
 
 DEAR [RECIPIENT’S NAME],
 
@@ -75,11 +75,11 @@ THANK YOU FOR YOUR ATTENTION TO THIS MATTER.
 
 BEST REGARDS,
 
-[YOUR NAME]_
+[YOUR NAME]*
 
 **Professional Email:**
 
-_Subject: Request for the Quarterly Sales Report
+*Subject: Request for the Quarterly Sales Report
 
 Dear [Recipient’s Name],
 
@@ -91,7 +91,7 @@ Thank you for your attention to this matter.
 
 Best regards,
 
-[Your Name]_
+[Your Name]*
 
 While both convey the same message, the capitalized email appears more aggressive compared to the professional, lowercase version. Strive for a balanced and measured approach to maintain a professional and trustworthy appearance.
 
