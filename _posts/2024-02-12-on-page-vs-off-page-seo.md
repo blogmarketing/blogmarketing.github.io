@@ -1,7 +1,7 @@
 ---
 layout: post
 title: On page SEO vs off page SEO
-description: Discover the nuances between on-page and off-page SEO strategies to optimize your website comprehensively. Explore how on-page tactics enhance content relevance and user experience, while off-page techniques elevate authority and visibility through external signals. Uncover the synergies between these two approaches to craft a well-rounded SEO strategy for improved search engine rankings and enhanced online presence.
+description: Explore on-page vs. off-page SEO nuances. On-page enhances content and UX, off-page boosts authority and visibility. Craft a holistic SEO strategy for better rankings.
 img: /assets/images/post/2024-02-12-on-page-vs-off-page-seo/on-page-vs-off-page-seo.jpg
 image: /assets/images/post/2024-02-12-on-page-vs-off-page-seo/on-page-vs-off-page-seo.jpg
 type: 'BlogPosting'

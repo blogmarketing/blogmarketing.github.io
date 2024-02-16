@@ -1,7 +1,7 @@
 ---
 layout: post
 title: On page SEO vs off page SEO
-description: In the realm of search engine optimization SEO, two key strategies stand out, on-page SEO and off-page SEO. While both play crucial roles in boosting website visibility and organic traffic, they differ in their focus and approach.
+description: In SEO, on-page and off-page strategies are pivotal. They differ in approach but are crucial for enhancing website visibility and traffic.
 img: /assets/images/post/2024-01-19-on-page-vs-off-page-seo/on-page-vs-off-page-seo.jpg
 image: /assets/images/post/2024-01-19-on-page-vs-off-page-seo/on-page-vs-off-page-seo.jpg
 type: 'BlogPosting'

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What is PPC for small business + how it benefits your business in 2024 
-description:  In today's competitive digital landscape, standing out from the crowd and attracting new customers is crucial for small businesses. Pay-Per-Click PPC marketing offers a powerful solution, enabling you to place your business at the forefront of search engine results pages SERPs and drive targeted traffic to your website
+description: Stand out in the digital crowd! PPC marketing puts your business on SERPs, driving targeted traffic to your site—crucial for small businesses.
 img: /assets/images/post/2024-01-17-small-business-need-ppc/small-business-need-ppc.jpg
 image: /assets/images/post/2024-01-17-small-business-need-ppc/small-business-need-ppc.jpg
 type: 'BlogPosting'

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Marketing Strategy What It Is, How It Works, How To Create One
-description:  Whether you re a seasoned entrepreneur or just starting out, understanding the fundamentals of marketing strategy is crucial for driving growth and achieving your business objectives.
+description: Essential for all entrepreneurs, grasp marketing strategy basics for business growth and goal achievement, whether starting or seasoned.
 img: /assets/images/post/2024-01-12-marketing-strategy-what-it-is-how-it-works-how-to-create-one/marketing-strategy-what-it-is-how-it-works-how-to-create-one.jpg
 image: /assets/images/post/2024-01-12-marketing-strategy-what-it-is-how-it-works-how-to-create-one/marketing-strategy-what-it-is-how-it-works-how-to-create-one.jpg
 type: 'BlogPosting'

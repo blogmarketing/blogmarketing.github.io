@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to create a strong internal linking strategy for your website and SEO
-description: Learn how to bolster your website's SEO with a robust internal linking strategy. Internal links not only enhance navigation but also boost search engine visibility. Discover key tactics and best practices to optimize your site's internal linking structure effectively.
+description: Discover the power of internal linking for SEO. Enhance navigation and boost search visibility with key tactics and best practices.
 img: /assets/images/post/2024-02-11-internal-linking-seo-strategy-guide/internal-linking-seo-strategy-guide.png
 image: /assets/images/post/2024-02-11-internal-linking-seo-strategy-guide/internal-linking-seo-strategy-guide.png
 type: 'BlogPosting'

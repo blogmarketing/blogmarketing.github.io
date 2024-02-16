@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to write email subject lines that people will actually open 
-description: Unlock the secrets to crafting compelling email subject lines that captivate your audience! Discover expert tips and strategies to ensure your emails stand out in crowded inboxes. Learn how to entice recipients to open your emails and boost engagement with effective subject lines. Elevate your email marketing game and achieve higher open rates with our comprehensive guide.
+description: Discover the art of crafting captivating email subject lines! Learn expert tips to stand out in crowded inboxes and boost engagement. Elevate your email marketing with our comprehensive guide.
 img: /assets/images/post/2024-02-29-email-subject-lines/email-subject-lines.jpg
 image: /assets/images/post/2024-02-29-email-subject-lines/email-subject-lines.jpg
 type: 'BlogPosting'

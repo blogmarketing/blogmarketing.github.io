@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What are local SEO services? Ways to improve your site’s visibility
-description: Unlock the power of local SEO services to boost your website's visibility! Discover expert strategies and tips to enhance your online presence within your community. From optimizing keywords to leveraging Google My Business, explore proven methods to improve your site's visibility and attract more local customers effectively.
+description: Tap into the potential of local SEO! Learn expert tips to amplify your website's visibility in your community. Optimize keywords and leverage Google My Business for effective local customer attraction.
 img: /assets/images/post/2024-02-23-what-are-local-seo-services/what-are-local-seo-services.png
 image: /assets/images/post/2024-02-23-what-are-local-seo-services/what-are-local-seo-services.png
 type: 'BlogPosting'

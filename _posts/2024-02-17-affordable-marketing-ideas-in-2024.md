@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 10 cost effective marketing tips for growing your business
-description: Discover 10 cost-effective marketing tips to fuel the growth of your business. From leveraging social media platforms to harnessing the power of email marketing, these strategies empower you to expand your reach, engage your audience, and maximize your ROI without breaking the bank. Unlock actionable insights and practical techniques to elevate your marketing efforts and propel your business to new heights.
+description: Explore 10 budget-friendly marketing tips to fuel business growth. From social media to email marketing, maximize ROI without overspending.
 img: /assets/images/post/2024-02-17-affordable-marketing-ideas-in-2024/affordable-marketing-ideas-in-2024.jpg
 image: /assets/images/post/2024-02-17-affordable-marketing-ideas-in-2024/affordable-marketing-ideas-in-2024.jpg
 type: 'BlogPosting'

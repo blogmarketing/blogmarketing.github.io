@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The definitive guide to small business marketing
-description: It covers all aspects of small business marketing, from understanding your target audience to creating and implementing a marketing plan. This guide is essential for any small business owner who wants to grow their business and succeed in the competitive marketplace.
+description: Comprehensive guide for small business marketing success. Understand your audience, craft a plan, and thrive in the competitive landscape.
 img: /assets/images/post/2024-01-27-small-business-marketing/small-business-marketing.jpg
 image: /assets/images/post/2024-01-27-small-business-marketing/small-business-marketing.jpg
 type: 'BlogPosting'

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to build a product landing page that converts
-description: In the competitive world of eCommerce, a well-designed product landing page can make all the difference between a successful product launch and a disappointing flop. This comprehensive guide will equip you with the knowledge and strategies to create a landing page that converts visitors into paying customers. 
+description: Craft compelling product landing pages for eCommerce success. Our guide provides strategies to convert visitors into loyal customers.
 img: /assets/images/post/2024-01-25-create-product-landing-page-sells/create-product-landing-page-sells.png
 image: /assets/images/post/2024-01-25-create-product-landing-page-sells/create-product-landing-page-sells.png   
 type: 'BlogPosting'

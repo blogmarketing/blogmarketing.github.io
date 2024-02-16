@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The ultimate guide to lead generation software and how to use it
-description:  Unlock the power of lead generation software and discover how to use it effectively to attract, nurture, and convert more leads.
+description: Harness lead generation software's potential to attract, nurture, and convert leads effectively. Unleash its power for enhanced conversions.
 img: /assets/images/post/2024-01-15-the-ultimate-guide-to-lead-generation-software-and-how-to-use-it/the-ultimate-guide-to-lead-generation-software-and-how-to-use-it.jpg
 image: /assets/images/post/2024-01-15-the-ultimate-guide-to-lead-generation-software-and-how-to-use-it/the-ultimate-guide-to-lead-generation-software-and-how-to-use-it.jpg
 type: 'BlogPosting'

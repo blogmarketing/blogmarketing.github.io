@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Why online reviews are important
-description: Discover the significance of online reviews for businesses! Explore how customer feedback impacts reputation, trust, and visibility online. Learn why leveraging reviews is essential for building credibility and driving growth in today's digital landscape.
+description: Explore the importance of online reviews! Learn how they shape reputation, trust, and visibility, crucial for business growth in the digital age.
 img: /assets/images/post/2024-02-22-what-do-customers-care-about-in-your-online-reviews/what-do-customers-care-about-in-your-online-reviews.jpg
 image: /assets/images/post/2024-02-22-what-do-customers-care-about-in-your-online-reviews/what-do-customers-care-about-in-your-online-reviews.jpg
 type: 'BlogPosting'

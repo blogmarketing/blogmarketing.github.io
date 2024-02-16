@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Marketing funnel unveiled, A step-by-step breakdown 
-description: Unlock the secrets to a powerful marketing funnel with this step-by-step guide. Delve into the intricacies of the marketing funnel, transforming prospects into loyal customers. Discover how to effectively guide your audience through each stage of the funnel, from awareness to conversion and beyond.
+description: Unlock the secrets of a potent marketing funnel with this guide. Master each stage, guiding prospects to loyal customers seamlessly.
 img: /assets/images/post/2024-01-26-marketing-funnel/marketing-funnel.jpg
 image: /assets/images/post/2024-01-26-marketing-funnel/marketing-funnel.jpg
 type: 'BlogPosting'

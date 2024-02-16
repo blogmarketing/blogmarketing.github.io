@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What is Conversion Rate? How to Calculate and Improve Your Conversion Rate
-description: Unlock the secrets of Conversion Rate with our comprehensive guide! Learn how to calculate and boost your conversion rate for optimal online success. Dive into strategies and tips to enhance your website's performance. Elevate your digital marketing game with insights on improving conversion rates. Maximize your online impact today!
+description: Discover Conversion Rate Optimization secrets! Calculate and boost conversions for online success. Elevate your digital marketing game now!
 img: /assets/images/post/2024-02-01-conversion-rate/conversion-rate.png
 image: /assets/images/post/2024-02-01-conversion-rate/conversion-rate.png
 type: 'BlogPosting'

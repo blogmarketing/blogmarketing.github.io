@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What is dropshipping and how can you launch a successful dropshipping store?
-description: Discover the ins and outs of dropshipping and unlock the secrets to launching a thriving dropshipping store. Learn how this business model works and uncover expert tips to ensure your dropshipping venture's success.
+description: Explore dropshipping's intricacies and launch a thriving store with expert insights. Master the model and ensure your venture's success.
 img: /assets/images/post/2024-02-27-what-is-dropshipping/what-is-dropshipping.jpg
 image: /assets/images/post/2024-02-27-what-is-dropshipping/what-is-dropshipping.jpg
 type: 'BlogPosting'

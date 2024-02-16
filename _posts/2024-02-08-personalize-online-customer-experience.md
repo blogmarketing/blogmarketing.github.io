@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Why you should personalize your online customer experience
-description: Unlock the power of personalized online customer experiences. Learn how tailoring your interactions can boost engagement, loyalty, and satisfaction. Discover why customization matters in today's digital landscape.
+description: Discover the impact of personalized online experiences. Tailor interactions to boost engagement, loyalty, and satisfaction in today's digital world.
 img: /assets/images/post/2024-02-08-personalize-online-customer-experience/personalize-online-customer-experience.jpg
 image: /assets/images/post/2024-02-08-personalize-online-customer-experience/personalize-online-customer-experience.jpg
 type: 'BlogPosting'

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to make a mobile friendly website
-description: Follow our expert tips to ensure your website not only ranks higher in search engines but also provides seamless navigation and functionality across various mobile platforms. Elevate your web presence with our in-depth tutorial on crafting a mobile-friendly website that attracts and engages users on the go.
+description: Maximize your web presence with expert tips! Craft a mobile-friendly website for higher rankings and seamless user experience.
 img: /assets/images/post/2024-02-02-7-tips-for-creating-a-mobile-friendly-website/7-tips-for-creating-a-mobile-friendly-website.jpg
 image: /assets/images/post/2024-02-02-7-tips-for-creating-a-mobile-friendly-website/7-tips-for-creating-a-mobile-friendly-website.jpg
 type: 'BlogPosting'

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The ultimate guide to creating an online course 
-description: Dive deep into the step-by-step process of crafting engaging and effective courses that captivate your audience. From content planning to interactive modules, we cover it all. Maximize your impact, reach a global audience, and boost your online presence with our expert insights. Whether you're a seasoned educator or a newcomer to e-learning, our SEO-friendly guide ensures your online course not only educates but also stands out in the competitive digital landscape. Start your journey to becoming a renowned online instructor today!
+description: Master course creation step-by-step! Maximize your impact globally. Whether a seasoned educator or newcomer, our SEO-friendly guide elevates your online presence.
 img: /assets/images/post/2024-02-03-the-ultimate-guide-to-creating-an-online-course/the-ultimate-guide-to-creating-an-online-course.jpg
 image: /assets/images/post/2024-02-03-the-ultimate-guide-to-creating-an-online-course/the-ultimate-guide-to-creating-an-online-course.jpg
 type: 'BlogPosting'

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Causes of a slow website + how to fix them
-description: Discover the reasons behind a sluggish website and effective solutions to enhance its speed. Uncover insights to optimize your site's performance and elevate user experience.
+description: Explore causes of slow websites & effective speed solutions. Optimize site performance for enhanced user experience.
 img: /assets/images/post/2024-02-21-ecommerce-site-too-slow/ecommerce-site-too-slow.jpg
 image: /assets/images/post/2024-02-21-ecommerce-site-too-slow/ecommerce-site-too-slow.jpg
 type: 'BlogPosting'

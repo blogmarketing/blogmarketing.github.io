@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to attract more visitors to your site 
-description: Discover effective strategies on how to attract a surge of visitors to your website. From optimizing content for search engines to leveraging social media and other traffic-driving techniques, learn the proven methods that will elevate your site's visibility and engagement.
+description: Learn proven strategies to attract more visitors to your website. Optimize content, leverage social media, and boost engagement for increased visibility.
 img: /assets/images/post/2024-02-06-website-attract-new-customers/website-attract-new-customers.png
 image: /assets/images/post/2024-02-06-website-attract-new-customers/website-attract-new-customers.png
 type: 'BlogPosting'

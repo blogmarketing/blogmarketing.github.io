@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Benefits of having a blog on your small business website
-description: A well-maintained blog not only showcases your expertise but also provides a platform to connect with your audience, build relationships, and create a loyal customer base. Elevate your small business with a blog that not only informs but also strengthens your online identity and positions you for sustained success.
+description: Elevate your small business with a compelling blog. Connect with your audience, build relationships, and establish expertise for lasting success.
 img: /assets/images/post/2024-02-04-does-your-website-need-a-blog/does-your-website-need-a-blog.jpg
 image: /assets/images/post/2024-02-04-does-your-website-need-a-blog/does-your-website-need-a-blog.jpg
 type: 'BlogPosting'

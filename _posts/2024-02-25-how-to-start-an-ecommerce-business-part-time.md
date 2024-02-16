@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to start your eCommerce business part time
-description: Discover the ultimate guide to launching your eCommerce venture part-time! Learn essential strategies, tools, and tips to kickstart your online business while balancing other commitments. From selecting the right niche to marketing tactics and managing operations efficiently, embark on your entrepreneurial journey with confidence. Explore proven methods to maximize success and achieve your financial goals, all while enjoying the flexibility of a part-time endeavor. Dive into the world of eCommerce and turn your passion into profit today!
+description: Learn to launch your eCommerce venture part-time! From niche selection to marketing, our guide has you covered. Maximize success on your entrepreneurial journey!
 img: /assets/images/post/2024-02-25-how-to-start-an-ecommerce-business-part-time/how-to-start-an-ecommerce-business-part-time.png
 image: /assets/images/post/2024-02-25-how-to-start-an-ecommerce-business-part-time/how-to-start-an-ecommerce-business-part-time.png
 type: 'BlogPosting'

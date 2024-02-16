@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to grow your email list in 2024
-description:  Expand your reach and boost your conversions with these actionable strategies for growing your email list in 2024
+description: Expand your reach and boost your conversions with these actionable strategies for growing your email list in 2024
 img: /assets/images/post/2024-01-16-how-to-grow-your-email-list-in-2024/how-to-grow-your-email-list-in-2024.jpg
 image: /assets/images/post/2024-01-16-how-to-grow-your-email-list-in-2024/how-to-grow-your-email-list-in-2024.jpg
 type: 'BlogPosting'

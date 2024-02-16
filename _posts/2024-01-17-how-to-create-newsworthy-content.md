@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to create newsworthy content
-description:  In the ever-evolving world of digital media, crafting newsworthy content is not just a skill; it's an art form. By understanding the nuances of what resonates with today's audiences, you can elevate your content to the forefront of the media landscape.
+description: Crafting newsworthy content is an art in the digital era. Understand audience nuances to elevate your content in today's media landscape.
 img: /assets/images/post/2024-01-17-how-to-create-newsworthy-content/how-to-create-newsworthy-content.jpg
 image: /assets/images/post/2024-01-17-how-to-create-newsworthy-content/how-to-create-newsworthy-content.jpg
 type: 'BlogPosting'

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to update a website, easy ways
-description: In today's competitive online landscape, it's crucial to keep your website up-to-date to ensure it remains user-friendly and relevant to your target audience. Here are some simple yet effective ways to update your website and enhance its visibility
+description: Stay competitive online by updating your website regularly. Ensure user-friendliness and relevance with these simple yet impactful strategies.
 img: /assets/images/post/2024-01-24-easy-ways-update-business-website/easy-ways-update-business-website.jpg
 image: /assets/images/post/2024-01-24-easy-ways-update-business-website/easy-ways-update-business-website.jpg
 type: 'BlogPosting'

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Website design best practices, make it easy for customers to find your products and services
-description: Looking to optimize your website design for maximum impact? Explore website design best practices to ensure seamless navigation and enhance user experience. From intuitive layouts to mobile responsiveness, discover how to make it effortless for customers to find your products and services. Dive into the world of effective website design to elevate your online presence and attract more visitors. 
+description: Optimize your website design for maximum impact! Discover best practices for seamless navigation and enhanced user experience.
 img: /assets/images/post/2024-02-15-website-design-best-practices/website-design-best-practices.jpg
 image: /assets/images/post/2024-02-15-website-design-best-practices/website-design-best-practices.jpg
 type: 'BlogPosting'

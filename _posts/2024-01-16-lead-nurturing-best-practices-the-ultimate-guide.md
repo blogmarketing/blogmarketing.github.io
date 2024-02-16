@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Lead nurturing best practices the ultimate guide
-description:  Lead nurturing is the process of building relationships with potential customers over time, educating them about your products or services, and nurturing them to the point of buying. It is a critical part of any sales strategy.
+description: Lead nurturing, Foster relationships, educate prospects, and guide them towards purchase. Integral to sales strategy success.
 img: /assets/images/post/2024-01-16-lead-nurturing-best-practices-the-ultimate-guide/lead-nurturing-best-practices-the-ultimate-guide.jpg
 image: /assets/images/post/2024-01-16-lead-nurturing-best-practices-the-ultimate-guide/lead-nurturing-best-practices-the-ultimate-guide.jpg
 type: 'BlogPosting'

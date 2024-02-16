@@ -1,6 +1,6 @@
 <aside class="commerce-blog-sidebar commerce-side-panel xs-hide sm-hide md-col-4 md-px4 md-pt6">
     {% if page.sidebar == null %} 
-        <h1 class="h5 md-pb2">{{ site.aside-title }}</h1>
+        <h2 class="h5 md-pb2">{{ site.aside-title }}</h2>
         <amp-img src="{{ site.url }}{{ site.baseurl }}/assets/images/{{ site.aside-image }}" width="300" height="200" alt="Antonio Trento photographer" layout="responsive"></amp-img>
         <hr>
         <p class="mb2">{{ site.aside-description }}</p>
@@ -8,12 +8,12 @@
             {{ site.aside-button-text }}
         </a>
     {% elsif page.sidebar.type == 'urban' %}       
-        <h1 class="h5 md-pb2">
+        <h2 class="h5 md-pb2">
             {% if page.sidebar.title %}
                 {{ page.sidebar.title }}
             {% elsif page.sidebar.title == null %}
                 Fotografia Urban
-            {% endif %}</h1>
+            {% endif %}</h2>
         <amp-img src="
             {% if page.sidebar.image %}
                 {{ site.url }}{{ site.baseurl }}/assets/images/{{ page.sidebar.image }}
@@ -43,12 +43,12 @@
         {% endif %}
         </a>
         {% elsif page.sidebar.type == 'portrait' %}       
-        <h1 class="h5 md-pb2">
+        <h2 class="h5 md-pb2">
             {% if page.sidebar.title %}
                 {{ page.sidebar.title }}
             {% elsif page.sidebar.title == null %}
                 Ritratti con fomofoto
-            {% endif %}</h1>
+            {% endif %}</h2>
         <amp-img src="
             {% if page.sidebar.image %}
                 {{ site.url }}{{ site.baseurl }}/assets/images/{{ page.sidebar.image }}
@@ -78,12 +78,12 @@
         {% endif %}
         </a>
         {% elsif page.sidebar.type == 'event' %}       
-        <h1 class="h5 md-pb2">
+        <h2 class="h5 md-pb2">
             {% if page.sidebar.title %}
                 {{ page.sidebar.title }}
             {% elsif page.sidebar.title == null %}
                 Eventi con fomofoto
-            {% endif %}</h1>
+            {% endif %}</h2>
         <amp-img src="
             {% if page.sidebar.image %}
                 {{ site.url }}{{ site.baseurl }}/assets/images/{{ page.sidebar.image }}
@@ -113,12 +113,12 @@
         {% endif %}
         </a> 
         {% elsif page.sidebar.type == 'drone' %}       
-        <h1 class="h5 md-pb2">
+        <h2 class="h5 md-pb2">
             {% if page.sidebar.title %}
                 {{ page.sidebar.title }}
             {% elsif page.sidebar.title == null %}
                 Fotografia Aerea
-            {% endif %}</h1>
+            {% endif %}</h2>
         <amp-img src="
             {% if page.sidebar.image %}
                 {{ site.url }}{{ site.baseurl }}/assets/images/{{ page.sidebar.image }}

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A comprehensive SEO guide for small businesses
-description: In today's digital landscape, online visibility is crucial for business success. SEO, the process of improving your website's ranking in search engine results pages (SERPs), is essential for attracting more visitors and driving more leads.
+description: Online visibility is vital for success in the digital realm. Elevate your website's ranking with SEO to attract more visitors and drive leads.
 img: /assets/images/post/2024-01-18-small-business-seo-guide/small-business-seo-guide.jpg
 image: /assets/images/post/2024-01-18-small-business-seo-guide/small-business-seo-guide.jpg
 type: 'BlogPosting'

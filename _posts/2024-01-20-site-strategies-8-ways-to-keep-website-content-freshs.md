@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Site strategies 8 ways to keep website content fresh
-description: In today's competitive online landscape, keeping your website content fresh and relevant is essential for attracting and retaining visitors. When your content is stale, it sends a signal to search engines that your website is no longer active or up-to-date. This can lead to lower rankings in search results, which in turn can reduce your website's visibility and traffic 
+description: Fresh, relevant content is vital in the competitive online scene. Stale content signals inactivity to search engines, lowering rankings and visibility.
 img: /assets/images/post/2024-01-20-site-strategies-8-ways-to-keep-website-content-freshs/site-strategies-8-ways-to-keep-website-content-freshs.jpg
 image: /assets/images/post/2024-01-20-site-strategies-8-ways-to-keep-website-content-freshs/site-strategies-8-ways-to-keep-website-content-freshs.jpg
 type: 'BlogPosting'

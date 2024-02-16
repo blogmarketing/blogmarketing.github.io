@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Marketing advise, put online reviews to work for your business
-description: In today's digital age, online reviews have become the ultimate word-of-mouth, influencing consumer decisions and shaping brand reputations. Whether you're a burgeoning business or a seasoned entrepreneur, harnessing the power of online reviews can elevate your marketing efforts and drive business growth. Here's how to make the most of online reviews and put them to work for your business
+description: Online reviews are modern word-of-mouth, shaping consumer decisions and brand reputations. Leverage them for marketing success and business growth.
 img: /assets/images/post/2024-01-21-put-online-reviews-to-work-for-your-business/put-online-reviews-to-work-for-your-business.png
 image: /assets/images/post/2024-01-21-put-online-reviews-to-work-for-your-business/put-online-reviews-to-work-for-your-business.png
 type: 'BlogPosting'

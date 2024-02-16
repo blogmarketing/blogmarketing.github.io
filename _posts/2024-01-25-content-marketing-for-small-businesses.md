@@ -1,8 +1,7 @@
 ---
 layout: post
 title: A guide to effective content marketing for small business
-description: In today's digital landscape, content marketing is a powerful tool for small businesses to reach their target audience, establish brand authority, and drive growth. This guide provides a comprehensive overview of effective content marketing strategies, including..
-
+description: Harness content marketing's power for small business growth. Our guide offers a comprehensive overview of effective strategies for success.
 img: /assets/images/post/2024-01-25-content-marketing-for-small-businesses/content-marketing-for-small-businesses.jpg
 image: /assets/images/post/2024-01-25-content-marketing-for-small-businesses/content-marketing-for-small-businesses.jpg
 type: 'BlogPosting'

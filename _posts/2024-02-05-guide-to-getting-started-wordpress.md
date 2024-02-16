@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to use WordPress, The beginners guide
-description: Discover essential tips for content creation, SEO optimization, and user-friendly navigation. Whether you're a novice or just looking to enhance your skills, this guide is your go-to resource for mastering WordPress and building a successful online presence. Dive into the world of web development with confidence – start your WordPress journey today!
+description: Explore vital tips for content creation, SEO, and user-friendly navigation. Master WordPress and build a thriving online presence. Start your journey now!
 img: /assets/images/post/2024-02-05-guide-to-getting-started-wordpress/guide-to-getting-started-wordpress.jpg
 image: /assets/images/post/2024-02-05-guide-to-getting-started-wordpress/guide-to-getting-started-wordpress.jpg
 type: 'BlogPosting'
