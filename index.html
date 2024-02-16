@@ -24,7 +24,7 @@ type: 'article'
       <amp-img class="mb3" src="{{ post.image }}" srcset="{{ post.image }} 750w,{{ post.image }} 1280w" width="750" height="427" layout="responsive" alt="No sleep &#39;til Brooklyn" noloading="">
       <div placeholder="" class="commerce-loader"></div>  </amp-img> </a>
   {% endif %}
-  <p class="mb2">{{ post.description | remove: '<p>' | remove: '</p>' }}</p>
+  <p class="mb2 h5">{{ post.description | remove: '<p>' | remove: '</p>' }}</p>
   <a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}" class="ampstart-btn ampstart-btn-secondary caps md-mb2">
     Read Post
 </a>
