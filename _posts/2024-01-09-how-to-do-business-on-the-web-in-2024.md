@@ -47,7 +47,7 @@ There are endless possibilities for web businesses, encompassing a wide range of
 
 **Lead Generation Businesses:** Lead generation businesses capture contact information from potential customers and sell it to businesses that want to market to them. They create **[landing pages]({% post_url 2024-01-25-create-product-landing-page-sells %})**s, run ads, and use email marketing to generate leads. Platforms like Leadpages, ClickFunnels, and ActiveCampaign provide tools for lead generation businesses.
 
-**Affiliate Marketing Businesses:** Affiliate marketing businesses promote products or services of other businesses and earn commissions for each sale they generate. They build websites, create content, and use social media to attract potential customers. Platforms like Amazon Associates, ClickBank, and ShareASale connect affiliate marketers with merchants.
+**[Affiliate Marketing Businesses:]({% post_url 2024-03-03-what-is-affiliate-marketing %})** Affiliate marketing businesses promote products or services of other businesses and earn commissions for each sale they generate. They build websites, create content, and use social media to attract potential customers. Platforms like Amazon Associates, ClickBank, and ShareASale connect affiliate marketers with merchants.
 
 These are just a few examples of the many successful web businesses that exist. With creativity, innovation, and a solid understanding of marketing and online strategies, businesses can thrive in the ever-evolving digital landscape.
 

@@ -47,7 +47,7 @@ External links come in various forms, each serving a distinct purpose:
 
 * **Authority Links:** Links from reputable and authoritative websites, known as backlinks, are highly valuable for SEO. They act as endorsements from established sources, signaling to search engines that your website offers high-quality content.
 
-* **Affiliate Links:** These links direct users to products or services for which you receive a commission. They are commonly used for e-commerce websites and blog posts that promote affiliate products.
+* **Affiliate Links:** These links direct users to products or services for which you receive a commission. They are commonly used for e-commerce websites and blog posts that promote **[affiliate products]({% post_url 2024-03-03-what-is-affiliate-marketing %})**.
 
 * **Social Media Links:** These links connect your website to your social media profiles, enabling users to follow your brand and engage with your content across multiple platforms.
 

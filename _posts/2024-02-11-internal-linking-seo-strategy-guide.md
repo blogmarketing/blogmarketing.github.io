@@ -29,7 +29,7 @@ There are different kinds of linking. To optimize your linking strategy, you nee
 ### External links
 External links, also known as outbound links, are hyperlinks embedded within a web page that direct users to other websites or online resources beyond the current page they are viewing.
 
-These links serve various purposes, including providing additional information, citing sources, and establishing connections between your website's content and valuable external resources across the internet. They contribute to building a network of interconnected information online. External links can take on various forms, including citation links, authority links, affiliate links, social media links, partner or sponsor links, resource links, community links, sponsored links, eCommerce and product links, as well as external blog or guest post links.
+These links serve various purposes, including providing additional information, citing sources, and establishing connections between your website's content and valuable external resources across the internet. They contribute to building a network of interconnected information online. External links can take on various forms, including citation links, authority links, **[affiliate links]({% post_url 2024-03-03-what-is-affiliate-marketing %})**, social media links, partner or sponsor links, resource links, community links, sponsored links, eCommerce and product links, as well as external blog or guest post links.
 
 ### Internal links
 Internal links, also known as inbound links, are hyperlinks that interconnect different pages within your website or domain, facilitating navigation and encouraging visitors to explore related or pertinent content.
