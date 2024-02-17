@@ -89,7 +89,7 @@ Ads: Harness online advertising platforms such as Google Ads or social media ads
 #### Encouraging others to disseminate your story
 When satisfied customers, influencers, and advocates share positive experiences, it adds authenticity and nurtures trust. Their word-of-mouth referrals and testimonials serve as social proof, assuring potential customers of your brand's value.
 
-This organic sharing expands your brand's reach, resonating with a broader audience than traditional marketing efforts alone. User-generated content and influencer collaborations infuse a personal touch into your advertising.
+This organic sharing expands your brand's reach, resonating with a broader audience than traditional marketing efforts alone. **[User-generated content]({% post_url 2024-03-01-what-is-user-generated-content-and-how-is-it-helpful %})** and influencer collaborations infuse a personal touch into your advertising.
 
 ### Assessing the Impact of Storytelling in Marketing
 #### Define Your Objectives and Key Performance Indicators (KPIs)
