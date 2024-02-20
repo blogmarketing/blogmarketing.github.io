@@ -72,8 +72,7 @@ Pros: Wholesale buying often translates to significant cost savings, allowing fo
 
 Cons: Storage space requirements for bulk inventory are substantial, and initial investment costs can be considerable. Unsold inventory may occupy excessive space, impacting profitability.
 
-Read more: Explore the fundamentals of eCommerce and online selling.
-
+Read more: **[Explore the fundamentals of eCommerce and online selling]({% post_url 2024-03-05-what-is-ecommerce-the-basics-of-selling-online %})**.
 
 ### 6. Liquidation:
 Similar to wholesale models, liquidation involves businesses sourcing products from companies looking to offload excess stock due to bankruptcy or slow sales.
