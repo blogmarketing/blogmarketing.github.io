@@ -141,7 +141,7 @@ In the dynamic realm of digital marketing, email marketing platforms stand as in
 
 7. **Integration:** Compatibility with other marketing tools, CRMs, and eCommerce platforms facilitates seamless data exchange and workflows, streamlining marketing operations.
 
-8. **Mobile Responsiveness:** Responsive email design ensures that emails render beautifully and function flawlessly across desktop and mobile devices, catering to the diverse user base.
+8. **Mobile Responsiveness:** Responsive email design ensures that emails render beautifully and function flawlessly across desktop and **[mobile devices]({% post_url 2024-03-04-email-marketing-for-mobile %})**, catering to the diverse user base.
 
 9. **List Segmentation:** The ability to segment email lists based on demographics, behavior, or engagement enables businesses to send targeted content that resonates with specific audience segments.
 
