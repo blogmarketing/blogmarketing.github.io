@@ -108,3 +108,4 @@ plugins:
   - jekyll-redirect-from
   - jekyll-paginate
   - jekyll-seo-tag
+  - jekyll-feed
