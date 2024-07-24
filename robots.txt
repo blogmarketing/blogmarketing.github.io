@@ -8,4 +8,4 @@ Disallow: /_plugins/
 Disallow: /tema/
 Disallow: /_data/
 
-Sitemap: https://blog.prettyproducts.online/sitemap.txt
+Sitemap: https://blogmarketing.quest/sitemap.txt
