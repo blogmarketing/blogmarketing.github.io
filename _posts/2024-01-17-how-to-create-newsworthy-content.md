@@ -6,6 +6,7 @@ img: /assets/images/post/2024-01-17-how-to-create-newsworthy-content/how-to-crea
 image: /assets/images/post/2024-01-17-how-to-create-newsworthy-content/how-to-create-newsworthy-content.jpg
 type: 'BlogPosting'
 tags: business grow marketing email funnel sales
+date: 2024-01-17 08:00:00 +0000
 ---
 
 **Navigating the Content Cataclysm: Crafting Newsworthy Content That Rises Above the Noise**
