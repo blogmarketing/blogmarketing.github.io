@@ -6,7 +6,7 @@ img: /assets/images/post/2024-01-16-lead-nurturing-best-practices-the-ultimate-g
 image: /assets/images/post/2024-01-16-lead-nurturing-best-practices-the-ultimate-guide/lead-nurturing-best-practices-the-ultimate-guide.jpg
 type: 'BlogPosting'
 tags: business grow marketing email funnel sales
-date: 2024-01-16 08:00:00 +0000 
+date: 2024-01-16 08:00:00 +0000
 ---
 
 **Nurture your leads or watch your sales slip away.**
