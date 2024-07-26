@@ -6,7 +6,7 @@ img: /assets/images/post/2024-02-13-SEO-vs-PPC-Whats-the-difference-and-why-you-
 image: /assets/images/post/2024-02-13-SEO-vs-PPC-Whats-the-difference-and-why-you-need-both/SEO-vs-PPC-Whats-the-difference-and-why-you-need-both.png
 type: 'BlogPosting'
 tags: business grow marketing email funnel sales seo ppc
-2024-02-13 08:00:00  
+2024-02-13  
 ---
 
 Is your small business digital marketing strategy falling short of expectations? If you find that you're solely relying on search engine optimization (SEO) to drive traffic to your website, you may be missing out on potential leads crucial for growth. 

@@ -6,7 +6,7 @@ img: /assets/images/post/2024-01-17-use-personalization-boost-sales/use-personal
 image: /assets/images/post/2024-01-17-use-personalization-boost-sales/use-personalization-boost-sales.png
 type: 'BlogPosting'
 tags: business grow marketing email funnel sales
-date: 2024-01-17 08:00:00   
+date: 2024-01-17   
 ---
 
 **Nurturing Customer Retention: The Power of Buyer Personas**

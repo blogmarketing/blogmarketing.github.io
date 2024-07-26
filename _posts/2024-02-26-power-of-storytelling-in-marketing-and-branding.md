@@ -6,7 +6,7 @@ img: /assets/images/post/2024-02-26-power-of-storytelling-in-marketing-and-brand
 image: /assets/images/post/2024-02-26-power-of-storytelling-in-marketing-and-branding/power-of-storytelling-in-marketing-and-branding.jpg
 type: 'BlogPosting'
 tags: business grow marketing email funnel sales storytell
-2024-02-26 08:00:00  
+2024-02-26  
 ---
 
 In a bustling marketplace teeming with competitors clamoring for attention, standing out can be daunting. However, brand storytelling offers a beacon of hope amidst the chaos.

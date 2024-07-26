@@ -6,7 +6,7 @@ img: /assets/images/post/2024-02-12-on-page-vs-off-page-seo/on-page-vs-off-page-
 image: /assets/images/post/2024-02-12-on-page-vs-off-page-seo/on-page-vs-off-page-seo.jpg
 type: 'BlogPosting'
 tags: business grow marketing email funnel sales seo
-2024-02-12 08:00:00  
+2024-02-12  
 ---
 
 Search engine optimization (SEO) stands as a potent tool for drawing potential customers to your website. However, if you're new to website management, navigating the intricacies of on-page and off-page SEO might be unfamiliar territory.

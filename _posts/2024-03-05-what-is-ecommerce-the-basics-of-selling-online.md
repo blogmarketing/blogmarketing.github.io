@@ -6,7 +6,7 @@ img: /assets/images/post/2024-03-05-what-is-ecommerce-the-basics-of-selling-onli
 image: /assets/images/post/2024-03-05-what-is-ecommerce-the-basics-of-selling-online/what-is-ecommerce-the-basics-of-selling-online.jpg
 type: 'BlogPosting'
 tags: business grow marketing email funnel sales ecommerce
-2024-03-05 08:00:00  
+2024-03-05
 ---
 
 In the contemporary business landscape, online selling holds immense significance, akin to running a perpetually accessible shop accessible to all. 

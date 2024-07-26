@@ -6,7 +6,7 @@ img: /assets/images/post/2024-02-07-how-to-do-market-research/how-to-do-market-r
 image: /assets/images/post/2024-02-07-how-to-do-market-research/how-to-do-market-research.jpg
 type: 'BlogPosting'
 tags: business grow marketing email funnel sales
-2024-02-07 08:00:00  
+2024-02-07  
 ---
 
 Understanding your audience and competitors forms the bedrock of your business. It serves as the cornerstone for crafting effective marketing strategies, developing products, and shaping your overall business model. 

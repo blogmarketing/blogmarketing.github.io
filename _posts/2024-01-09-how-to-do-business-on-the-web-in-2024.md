@@ -6,7 +6,7 @@ img: /assets/images/post/2024-01-09-how-to-do-business-on-the-web-in-2024/how-to
 image: /assets/images/post/2024-01-09-how-to-do-business-on-the-web-in-2024/how-to-do-business-on-the-web-in-2024.jpg
 type: 'BlogPosting'
 tags: business funnel money marketing
-date: 2024-01-09 08:00:00   
+date: 2024-01-09
 ---
 
 ## Why do business on web in 2024

@@ -6,7 +6,7 @@ img: /assets/images/post/2024-01-28-facebook-ads-guide/facebook-ads-guide.jpg
 image: /assets/images/post/2024-01-28-facebook-ads-guide/facebook-ads-guide.jpg
 type: 'BlogPosting'
 tags: business grow marketing email facebook sales
-2024-01-28 08:00:00  
+2024-01-28  
 ---
 
 Navigating Facebook Ads can be daunting for small businesses and brands. I get it – when I first encountered Power Editor, I questioned my decision to dive in! Initially, the multitude of options and the plethora of growth hack strategies from self-proclaimed experts overwhelmed me.

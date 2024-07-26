@@ -6,7 +6,7 @@ img: /assets/images/post/2024-01-24-easy-ways-update-business-website/easy-ways-
 image: /assets/images/post/2024-01-24-easy-ways-update-business-website/easy-ways-update-business-website.jpg
 type: 'BlogPosting'
 tags: business grow marketing email funnel sales
-date: 2024-01-24 08:00:00    
+date: 2024-01-24    
 ---
 
 Humans have fleeting attention spans, making it crucial for your business website to capture and maintain interest. Regular updates are essential to keeping your website fresh and engaging for potential customers and clients. But how do you make the most significant impact with your website updates?

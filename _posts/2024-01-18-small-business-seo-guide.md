@@ -6,7 +6,7 @@ img: /assets/images/post/2024-01-18-small-business-seo-guide/small-business-seo-
 image: /assets/images/post/2024-01-18-small-business-seo-guide/small-business-seo-guide.jpg
 type: 'BlogPosting'
 tags: business grow marketing email funnel sales
-date: 2024-01-18 08:00:00   
+date: 2024-01-18   
 ---
 
 **In the bustling marketplace of online commerce, standing out from the crowd is crucial for success. Just like brick-and-mortar stores, online businesses need to provide exceptional customer service and enticing offers to attract and retain customers. But before you can even showcase your offerings, you need to ensure your online presence is visible and accessible to potential customers.**
