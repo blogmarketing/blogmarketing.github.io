@@ -6,6 +6,7 @@ img: /assets/images/post/2024-01-23-how-to-create-a-content-calendar-for-your-sm
 image: /assets/images/post/2024-01-23-how-to-create-a-content-calendar-for-your-small-business/how-to-create-a-content-calendar-for-your-small-business.jpg
 type: 'BlogPosting'
 tags: business grow marketing funnel sales seo
+date: 2024-01-23 08:00:00 +0000
 ---
 
 In today's digital landscape, captivating content reigns supreme. It's the gateway to attracting website visitors, fostering audience engagement, and establishing a strong brand presence. 
