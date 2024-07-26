@@ -6,7 +6,7 @@ img: /assets/images/post/2024-01-22-internal-linking-seo-strategy-guide/internal
 image: /assets/images/post/2024-01-22-internal-linking-seo-strategy-guide/internal-linking-seo-strategy-guide.jpg
 type: 'BlogPosting'
 tags: business grow marketing seo funnel sales
-date: 2024-01-22 08:00:00 +0000
+date: 2024-01-22 08:00:00 +0000 
 ---
 
 In the realm of website development, there's a fundamental element that frequently gets overlooked by novices but plays a pivotal role in success: internal linking.

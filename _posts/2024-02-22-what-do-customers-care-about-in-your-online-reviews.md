@@ -6,6 +6,7 @@ img: /assets/images/post/2024-02-22-what-do-customers-care-about-in-your-online-
 image: /assets/images/post/2024-02-22-what-do-customers-care-about-in-your-online-reviews/what-do-customers-care-about-in-your-online-reviews.jpg
 type: 'BlogPosting'
 tags: business grow marketing email funnel sales
+2024-02-22 08:00:00 +0000
 ---
 
 In today's business landscape, the significance of online ratings and reviews cannot be overstated for entrepreneurs. Yet, what truly holds weight in this realm are the perspectives of potential customers. 

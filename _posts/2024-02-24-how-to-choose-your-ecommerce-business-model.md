@@ -6,6 +6,7 @@ img: /assets/images/post/2024-02-24-how-to-choose-your-ecommerce-business-model/
 image: /assets/images/post/2024-02-24-how-to-choose-your-ecommerce-business-model/how-to-choose-your-ecommerce-business-model.jpg
 type: 'BlogPosting'
 tags: business grow marketing email funnel sales ecommerce
+2024-02-24 08:00:00 +0000
 ---
 
 ### Key Takeaways:

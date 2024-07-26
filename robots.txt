@@ -9,3 +9,4 @@ Disallow: /tema/
 Disallow: /_data/
 
 Sitemap: https://blogmarketing.quest/sitemap.txt
+Sitemap: https://blogmarketing.quest/sitemap.xml

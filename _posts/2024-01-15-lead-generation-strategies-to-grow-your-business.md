@@ -6,7 +6,7 @@ img: /assets/images/post/2024-01-15-lead-generation-strategies-to-grow-your-busi
 image: /assets/images/post/2024-01-15-lead-generation-strategies-to-grow-your-business/lead-generation-strategies-to-grow-your-business.jpg
 type: 'BlogPosting'
 tags: business grow marketing email funnel sales
-date: 2024-01-15 08:00:00 +0000
+date: 2024-01-15 08:00:00 +0000 
 ---
 
 **Are you ready to embark on a strategic growth journey for your small business?** I am too! While this prospect is full of excitement and anticipation, it can also evoke a hint of nervousness. After all, growth requires strategic planning and efficient resource utilization.

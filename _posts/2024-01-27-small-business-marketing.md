@@ -6,6 +6,7 @@ img: /assets/images/post/2024-01-27-small-business-marketing/small-business-mark
 image: /assets/images/post/2024-01-27-small-business-marketing/small-business-marketing.jpg
 type: 'BlogPosting'
 tags: business grow marketing email funnel sales
+2024-01-27 08:00:00 +0000
 ---
 
 Navigating the intricacies of **[small business marketing]({% post_url 2024-02-17-affordable-marketing-ideas-in-2024 %})** can seem like an arduous climb. If this resonates with you, you're not alone. In a survey conducted with over 300 small business owners, acquiring new customers and fostering repeat business emerged as the top two hurdles they face.

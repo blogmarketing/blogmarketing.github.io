@@ -6,6 +6,7 @@ img: /assets/images/post/2024-01-25-create-product-landing-page-sells/create-pro
 image: /assets/images/post/2024-01-25-create-product-landing-page-sells/create-product-landing-page-sells.png   
 type: 'BlogPosting'
 tags: business grow marketing email funnel sales
+2024-01-25 08:00:00 +0000
 ---
 
 In the dynamic realm of eCommerce, product landing pages hold immense power to either seal a sale or drive customers away. These crucial pages demand careful attention and strategic optimization to ensure a positive customer experience and boost conversions.

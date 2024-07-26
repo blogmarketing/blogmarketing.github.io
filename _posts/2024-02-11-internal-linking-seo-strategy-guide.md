@@ -6,6 +6,7 @@ img: /assets/images/post/2024-02-11-internal-linking-seo-strategy-guide/internal
 image: /assets/images/post/2024-02-11-internal-linking-seo-strategy-guide/internal-linking-seo-strategy-guide.png
 type: 'BlogPosting'
 tags: business grow marketing email funnel sales seo
+2024-02-11 08:00:00 +0000
 ---
 
 When crafting a successful website, novice developers often overlook a crucial element: internal linking.

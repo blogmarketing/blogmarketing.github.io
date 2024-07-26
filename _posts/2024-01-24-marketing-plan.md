@@ -6,7 +6,7 @@ img: /assets/images/post/2024-01-24-marketing-plan/marketing-plan.jpg
 image: /assets/images/post/2024-01-24-marketing-plan/marketing-plan.jpg
 type: 'BlogPosting'
 tags: business grow marketing email funnel sales
-date: 2024-01-24 08:00:00 +0000 
+date: 2024-01-24 08:00:00 +0000  
 ---
 
 **[Email marketing]({% post_url 2024-01-27-small-business-marketing %})**

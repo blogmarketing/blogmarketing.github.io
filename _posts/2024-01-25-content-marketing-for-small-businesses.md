@@ -6,7 +6,7 @@ img: /assets/images/post/2024-01-25-content-marketing-for-small-businesses/conte
 image: /assets/images/post/2024-01-25-content-marketing-for-small-businesses/content-marketing-for-small-businesses.jpg
 type: 'BlogPosting'
 tags: business grow marketing email funnel sales
-date: 2024-01-25 08:00:00 +0000
+date: 2024-01-25 08:00:00 +0000 
 ---
 
 Content marketing serves a multitude of purposes, ranging from enhancing your website's visibility in search results to attracting new potential customers, nurturing a loyal audience, and boosting revenue.

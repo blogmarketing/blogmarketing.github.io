@@ -6,6 +6,7 @@ img: /assets/images/post/2024-01-31-why-dedicated-landing-pages-matter/why-dedic
 image: /assets/images/post/2024-01-31-why-dedicated-landing-pages-matter/why-dedicated-landing-pages-matter.png
 type: 'BlogPosting'
 tags: business grow marketing email funnel sales
+2024-01-31 08:00:00 +0000
 ---
 
 

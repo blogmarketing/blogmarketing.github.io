@@ -6,6 +6,7 @@ img: /assets/images/post/2024-02-17-affordable-marketing-ideas-in-2024/affordabl
 image: /assets/images/post/2024-02-17-affordable-marketing-ideas-in-2024/affordable-marketing-ideas-in-2024.jpg
 type: 'BlogPosting'
 tags: business grow marketing email funnel sales
+2024-02-17 08:00:00 +0000
 ---
 
 For small business owners operating on a budget, marketing can pose a continuous challenge. However, here's some exciting news: there's an abundance of affordable marketing ideas tailored for small businesses!

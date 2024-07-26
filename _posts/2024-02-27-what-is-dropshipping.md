@@ -6,6 +6,7 @@ img: /assets/images/post/2024-02-27-what-is-dropshipping/what-is-dropshipping.jp
 image: /assets/images/post/2024-02-27-what-is-dropshipping/what-is-dropshipping.jpg
 type: 'BlogPosting'
 tags: business grow marketing email funnel sales dropshipping
+2024-02-27 08:00:00 +0000
 ---
 
 Picture owning an online store where you showcase enticing products. But here’s the kicker: when a customer makes a purchase, you don't need to manage inventory or fret about shipping logistics. Instead, you collaborate with suppliers who handle these tasks seamlessly. Your role? Simply curate products, market them, and ensure prompt delivery to your customers.

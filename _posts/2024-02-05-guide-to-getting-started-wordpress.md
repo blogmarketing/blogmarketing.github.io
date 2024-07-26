@@ -6,6 +6,7 @@ img: /assets/images/post/2024-02-05-guide-to-getting-started-wordpress/guide-to-
 image: /assets/images/post/2024-02-05-guide-to-getting-started-wordpress/guide-to-getting-started-wordpress.jpg
 type: 'BlogPosting'
 tags: business grow marketing email funnel wordpress
+2024-02-05 08:00:00 +0000
 ---
 
 In the contemporary era, online shopping has become increasingly popular due to its convenience, overshadowing the traditional brick-and-mortar store experience. Therefore, it is essential for businesses to adapt by establishing an online presence to remain competitive. Creating an online store not only caters to customer preferences but also enables you to extend your reach beyond geographical limitations.

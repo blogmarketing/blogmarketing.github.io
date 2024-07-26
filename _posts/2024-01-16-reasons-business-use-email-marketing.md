@@ -6,7 +6,7 @@ img: /assets/images/post/2024-01-16-reasons-business-use-email-marketing/reasons
 image: /assets/images/post/2024-01-16-reasons-business-use-email-marketing/reasons-business-use-email-marketing.png
 type: 'BlogPosting'
 tags: business grow marketing email funnel sales
-date: 2024-01-16 08:00:00 +0000
+date: 2024-01-16 08:00:00 +0000 
 ---
 
 
