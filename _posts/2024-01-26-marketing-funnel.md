@@ -6,7 +6,7 @@ img: /assets/images/post/2024-01-26-marketing-funnel/marketing-funnel.jpg
 image: /assets/images/post/2024-01-26-marketing-funnel/marketing-funnel.jpg
 type: 'BlogPosting'
 tags: business grow marketing email funnel sales
-2024-01-26 08:00:00 +0000
+2024-01-26 08:00:00  
 ---
 
 Unbeknownst to you, you've likely navigated through a marketing funnel at some point in your life. It starts with initial awareness of a product or service, leading to genuine interest and a thoughtful consideration before proceeding to the crucial decision to purchase. Beyond that, you may well become a loyal customer, potentially even advocating for the brand to others. This seemingly effortless transition is, in reality, the culmination of a meticulously crafted marketing funnel.

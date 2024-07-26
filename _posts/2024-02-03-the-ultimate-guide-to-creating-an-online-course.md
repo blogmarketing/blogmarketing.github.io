@@ -6,7 +6,7 @@ img: /assets/images/post/2024-02-03-the-ultimate-guide-to-creating-an-online-cou
 image: /assets/images/post/2024-02-03-the-ultimate-guide-to-creating-an-online-course/the-ultimate-guide-to-creating-an-online-course.jpg
 type: 'BlogPosting'
 tags: business grow marketing email funnel sales
-2024-02-03 08:00:00 +0000
+2024-02-03 08:00:00  
 ---
 
 Enterprises are increasingly turning to online courses for a spectrum of purposes, including employee training, skill enhancement, customer education, and revenue generation. Beyond being a cost-effective learning solution for individuals, the advantages for businesses are extensive.

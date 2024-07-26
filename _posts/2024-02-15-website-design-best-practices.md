@@ -6,7 +6,7 @@ img: /assets/images/post/2024-02-15-website-design-best-practices/website-design
 image: /assets/images/post/2024-02-15-website-design-best-practices/website-design-best-practices.jpg
 type: 'BlogPosting'
 tags: business grow marketing email funnel sales design
-2024-02-15 08:00:00 +0000
+2024-02-15 08:00:00  
 ---
 
 With a background in graphic design and extensive experience leading creative teams, I've honed my skills to craft engaging user experiences (UX) as the Senior UX Designer at Web.com. Why focus on UX? Because it's not just about creating stunning designs; it's about ensuring that users can seamlessly interact with them. 

@@ -6,7 +6,7 @@ img: /assets/images/post/2024-02-21-ecommerce-site-too-slow/ecommerce-site-too-s
 image: /assets/images/post/2024-02-21-ecommerce-site-too-slow/ecommerce-site-too-slow.jpg
 type: 'BlogPosting'
 tags: business grow marketing email funnel sales seo
-2024-02-21 08:00:00 +0000
+2024-02-21 08:00:00  
 ---
 
 You've likely encountered the frustration of a slow-loading website countless times while browsing online. The seemingly endless wait can prompt you to close the tab, and for website owners, this spells trouble as it hampers conversions.

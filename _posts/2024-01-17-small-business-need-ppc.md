@@ -6,7 +6,7 @@ img: /assets/images/post/2024-01-17-small-business-need-ppc/small-business-need-
 image: /assets/images/post/2024-01-17-small-business-need-ppc/small-business-need-ppc.jpg
 type: 'BlogPosting'
 tags: business grow marketing PPC sales
-date: 2024-01-17 08:00:00 +0000 
+date: 2024-01-17 08:00:00   
 ---
 
 **Empowering Your Business with Pay-Per-Click (PPC): A Comprehensive Guide**

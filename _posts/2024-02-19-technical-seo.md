@@ -6,7 +6,7 @@ img: /assets/images/post/2024-02-19-technical-seo/technical-seo.png
 image: /assets/images/post/2024-02-19-technical-seo/technical-seo.png
 type: 'BlogPosting'
 tags: business grow marketing email funnel sales seo
-2024-02-19 08:00:00 +0000
+2024-02-19 08:00:00  
 ---
 
 Search Engine Optimization, commonly known as SEO, stands as an indispensable component in achieving online success. Without it, even well-crafted websites risk sinking amidst the vast sea of online content. **[Effective SEO]({% post_url 2024-02-10-what-is-seo %})** translates to increased visibility and customer engagement for your website. 

@@ -6,7 +6,7 @@ img: /assets/images/post/2024-02-23-what-are-local-seo-services/what-are-local-s
 image: /assets/images/post/2024-02-23-what-are-local-seo-services/what-are-local-seo-services.png
 type: 'BlogPosting'
 tags: business grow marketing email funnel sales
-2024-02-23 08:00:00 +0000
+2024-02-23 08:00:00  
 ---
 
 In today's digital age, establishing a robust online presence is paramount for businesses, with 30% of global consumers relying on search engines to discover products. In the US alone, **[21% of consumers seek out local businesses daily](https://www.statista.com/statistics/315709/online-local-business-search-frequency-us-canada/)** via online searches, underscoring the importance of optimizing your eCommerce website for local SEO.

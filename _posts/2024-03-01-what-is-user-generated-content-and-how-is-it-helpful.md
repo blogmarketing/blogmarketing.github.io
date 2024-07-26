@@ -6,7 +6,7 @@ img: /assets/images/post/2024-03-01-what-is-user-generated-content-and-how-is-it
 image: /assets/images/post/2024-03-01-what-is-user-generated-content-and-how-is-it-helpful/what-is-user-generated-content-and-how-is-it-helpful.jpg
 type: 'BlogPosting'
 tags: business grow marketing email funnel sales seo
-2024-03-01 08:00:00 +0000
+2024-03-01 08:00:00  
 ---
 
 Consumer influence is paramount in today's business landscape. User Generated Content (UGC) has emerged as a pivotal force, shaping consumer behaviors and brand perceptions. UGC, comprising authentic content from real users like reviews and social media posts, is a game-changer.

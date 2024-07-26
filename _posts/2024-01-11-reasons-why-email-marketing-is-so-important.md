@@ -6,7 +6,7 @@ img: /assets/images/post/2024-01-11-reasons-why-email-marketing-is-so-important/
 image: /assets/images/post/2024-01-11-reasons-why-email-marketing-is-so-important/reasons-why-email-marketing-is-so-important.jpg
 type: 'BlogPosting'
 tags: business money marketing email funnel sales
-date: 2024-01-11 08:00:00 +0000 
+date: 2024-01-11 08:00:00   
 ---
 
 As various digital marketing strategies continue to advance, the recurring question emerges: "**Is email marketing still important**?"
