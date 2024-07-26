@@ -6,7 +6,7 @@ img: /assets/images/post/2024-01-17-best-ways-grow-email-list/best-ways-grow-ema
 image: /assets/images/post/2024-01-17-best-ways-grow-email-list/best-ways-grow-email-list.jpg
 type: 'BlogPosting'
 tags: business grow marketing email funnel sales
-date: 2024-01-17 08:00:00 +0000
+date: 2024-01-17 08:00:00 +0000 
 ---
 
 **Unearth the Hidden Treasure: Your Email List, the Key to Business Success**
