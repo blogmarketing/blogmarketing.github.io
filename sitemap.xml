@@ -11,6 +11,8 @@ layout: none
       <loc>{{ page.url | absolute_url }}</loc>
       {% if page.date %}
         <lastmod>{{ page.date | date: "%Y-%m-%d" }}</lastmod>
+      {% else %}
+        <!-- Lastmod tag not included because page.date is missing -->
       {% endif %}
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
@@ -22,6 +24,8 @@ layout: none
       <loc>{{ post.url | absolute_url }}</loc>
       {% if post.date %}
         <lastmod>{{ post.date | date: "%Y-%m-%d" }}</lastmod>
+      {% else %}
+        <!-- Lastmod tag not included because post.date is missing -->
       {% endif %}
       <changefreq>monthly</changefreq>
       <priority>0.5</priority>
