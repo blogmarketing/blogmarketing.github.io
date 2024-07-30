@@ -6,7 +6,7 @@ img: /assets/images/post/2024-02-01-conversion-rate/conversion-rate.png
 image: /assets/images/post/2024-02-01-conversion-rate/conversion-rate.png
 type: 'BlogPosting'
 tags: business grow marketing email funnel sales
-2024-02-01  
+date: 2024-02-01
 ---
 
 Conversion rate—sounds more like a religious metric than a marketing term, but it's a crucial indicator of your advertising campaign's success. Unlike click-through rate or cost-per-click, conversion rate gauges your marketing's effectiveness in getting people to take desired actions, also known as "converting" in the marketing realm. Higher conversion rates signify superior marketing performance. 

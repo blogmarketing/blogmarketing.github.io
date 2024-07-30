@@ -6,7 +6,7 @@ img: /assets/images/post/2024-02-08-personalize-online-customer-experience/perso
 image: /assets/images/post/2024-02-08-personalize-online-customer-experience/personalize-online-customer-experience.jpg
 type: 'BlogPosting'
 tags: business grow marketing email funnel sales
-2024-02-08  
+date: 2024-02-08
 ---
 
 Key Takeaways:

@@ -6,7 +6,7 @@ img: /assets/images/post/2024-02-06-website-attract-new-customers/website-attrac
 image: /assets/images/post/2024-02-06-website-attract-new-customers/website-attract-new-customers.png
 type: 'BlogPosting'
 tags: business grow marketing email funnel sales
-2024-02-06  
+date: 2024-02-06
 ---
 
 Recent statistics indicate that **[43% of US consumers favor online shopping](https://www.statista.com/statistics/1384193/mostly-online-vs-offline-shopping-worldwide/)**. If your business lacks online visibility, you risk falling behind significant industry trends. However, merely having a website is the initial step; the real challenge lies in ensuring your website is both visible and appealing to your target audience.

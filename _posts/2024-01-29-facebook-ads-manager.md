@@ -6,7 +6,7 @@ img: /assets/images/post/2024-01-29-facebook-ads-manager/facebook-ads-manager.jp
 image: /assets/images/post/2024-01-29-facebook-ads-manager/facebook-ads-manager.jpg
 type: 'BlogPosting'
 tags: business grow marketing email funnel sales
-2024-01-29  
+date: 2024-01-29
 ---
 
 Facebook advertising holds immense significance, **[with 1.4 billion](http://newsroom.fb.com/company-info/)** active daily users spending over **[50 minutes daily across Facebook](http://www.businessinsider.sg/how-much-time-do-people-spend-on-facebook-per-day-2016-4/?r=US&IR=T#zgT4UV4lgESypr8f.97)**, Messenger, and Instagram. Unsurprisingly, **[93% of marketers leverage Facebook for advertising](https://www.socialmediaexaminer.com/report/)**. To harness the potential of this vast user base and ensure meaningful results from your Facebook Ads spend, the key lies in Facebook Ads Manager.

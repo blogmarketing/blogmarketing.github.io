@@ -6,7 +6,7 @@ img: /assets/images/post/2024-02-18-how-to-find-the-best-keywords/how-to-find-th
 image: /assets/images/post/2024-02-18-how-to-find-the-best-keywords/how-to-find-the-best-keywords.png
 type: 'BlogPosting'
 tags: business grow marketing email funnel sales seo
-2024-02-18 
+date: 2024-02-18
 ---
 
 Search Engine Optimization (SEO) comprises a series of techniques aimed at enhancing your website's visibility to major search engines such as Google, Bing, and Yahoo. The primary goal is to improve your website's ranking in search results. 

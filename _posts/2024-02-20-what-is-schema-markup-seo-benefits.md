@@ -6,7 +6,7 @@ img: /assets/images/post/2024-02-20-what-is-schema-markup-seo-benefits/what-is-s
 image: /assets/images/post/2024-02-20-what-is-schema-markup-seo-benefits/what-is-schema-markup-seo-benefits.png
 type: 'BlogPosting'
 tags: business grow marketing email funnel sales
-2024-02-20  
+date: 2024-02-20
 ---
 
 In the present digital landscape, search engines such as Google are consistently refining their algorithms to deliver users the most pertinent and insightful search outcomes. Every online business vies for prominence within these algorithms.

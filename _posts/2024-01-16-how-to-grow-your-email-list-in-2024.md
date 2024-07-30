@@ -6,7 +6,7 @@ img: /assets/images/post/2024-01-16-how-to-grow-your-email-list-in-2024/how-to-g
 image: /assets/images/post/2024-01-16-how-to-grow-your-email-list-in-2024/how-to-grow-your-email-list-in-2024.jpg
 type: 'BlogPosting'
 tags: business grow marketing email funnel sales
-date: 2024-01-16   
+date: 2024-01-16
 ---
 
 **[Email marketing]({% post_url 2024-01-16-reasons-business-use-email-marketing %})** continues to reign supreme as a digital marketing powerhouse, delivering exceptional return on investment (ROI) and facilitating direct, personalized communication with customers. In a testament to its enduring relevance, 77% of marketers have witnessed a remarkable surge in email engagement over the past year.

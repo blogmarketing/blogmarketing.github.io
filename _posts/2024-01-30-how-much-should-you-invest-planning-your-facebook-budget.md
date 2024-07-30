@@ -6,7 +6,7 @@ img: /assets/images/post/2024-01-30-how-much-should-you-invest-planning-your-fac
 image: /assets/images/post/2024-01-30-how-much-should-you-invest-planning-your-facebook-budget/how-much-should-you-invest-planning-your-facebook-budget.jpg
 type: 'BlogPosting'
 tags: business grow marketing facebook funnel sales
-2024-01-30  
+date: 2024-01-30
 ---
 
 In 2016, **[over 90%](http://www.socialbeat.in/2016/07/19/digital-marketing-industry-report-india-2016/)** of marketers embraced Facebook advertising, making meticulous budget planning and strategic marketing crucial for a successful 2017. However, many marketers may find their Facebook budgets lacking a structured strategy. 

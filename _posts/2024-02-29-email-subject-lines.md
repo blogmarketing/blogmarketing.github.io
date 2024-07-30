@@ -6,7 +6,7 @@ img: /assets/images/post/2024-02-29-email-subject-lines/email-subject-lines.jpg
 image: /assets/images/post/2024-02-29-email-subject-lines/email-subject-lines.jpg
 type: 'BlogPosting'
 tags: business grow marketing email funnel sales
-2024-02-29 
+date: 2024-02-29
 ---
 
 Did you realize that a staggering **[347.3 billion emails circulate globally?](https://www.oberlo.com/statistics/how-many-emails-are-sent-per-day)** Amidst this flood of messages, grabbing your audience's attention is no small feat.

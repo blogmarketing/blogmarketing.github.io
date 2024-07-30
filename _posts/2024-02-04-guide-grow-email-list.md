@@ -6,7 +6,7 @@ img: /assets/images/post/2024-02-04-guide-grow-email-list/guide-grow-email-list.
 image: /assets/images/post/2024-02-04-guide-grow-email-list/guide-grow-email-list.png
 type: 'BlogPosting'
 tags: business grow marketing email funnel sales
-2024-02-04 
+date: 2024-02-04
 ---
 
 Within the dynamic digital landscape, your email list stands as a valuable resource. It holds a personal, direct, and potent essence, making it indispensable for small business proprietors, eCommerce experts, website virtuosos, and budding entrepreneurs alike.

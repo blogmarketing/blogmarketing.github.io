@@ -6,7 +6,7 @@ img: /assets/images/post/2024-01-19-on-page-vs-off-page-seo/on-page-vs-off-page-
 image: /assets/images/post/2024-01-19-on-page-vs-off-page-seo/on-page-vs-off-page-seo.jpg
 type: 'BlogPosting'
 tags: business grow marketing seo funnel sales seo
-date: 2024-01-19   
+date: 2024-01-19
 ---
 
 **Navigating the World of On-Page and Off-Page SEO for Business Growth**

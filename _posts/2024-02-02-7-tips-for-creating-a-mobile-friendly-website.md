@@ -6,7 +6,7 @@ img: /assets/images/post/2024-02-02-7-tips-for-creating-a-mobile-friendly-websit
 image: /assets/images/post/2024-02-02-7-tips-for-creating-a-mobile-friendly-website/7-tips-for-creating-a-mobile-friendly-website.jpg
 type: 'BlogPosting'
 tags: business grow marketing email funnel sales
-2024-02-02  
+date: 2024-02-02
 ---
 
 In the current era, people predominantly use their smartphones, emphasizing the importance of optimizing your website for mobile accessibility. 

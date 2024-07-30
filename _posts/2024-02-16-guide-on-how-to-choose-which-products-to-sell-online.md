@@ -6,7 +6,7 @@ img: /assets/images/post/2024-02-16-guide-on-how-to-choose-which-products-to-sel
 image: /assets/images/post/2024-02-16-guide-on-how-to-choose-which-products-to-sell-online/guide-on-how-to-choose-which-products-to-sell-online.jpg
 type: 'BlogPosting'
 tags: business grow marketing email funnel sales
-2024-02-16 
+date: 2024-02-16
 ---
 
 For novice entrepreneurs, navigating the realm of online product selection and sales can be daunting. While the internet offers vast opportunities, not all products enjoy equal success in the digital marketplace.

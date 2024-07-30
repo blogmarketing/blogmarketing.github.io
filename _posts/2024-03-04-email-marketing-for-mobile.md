@@ -6,7 +6,7 @@ img: /assets/images/post/2024-03-04-email-marketing-for-mobile/email-marketing-f
 image: /assets/images/post/2024-03-04-email-marketing-for-mobile/email-marketing-for-mobile.jpg
 type: 'BlogPosting'
 tags: business grow marketing email funnel sales
-2024-03-04
+date: 2024-03-04
 ---
 
 Have you considered the importance of mobile-friendly **[email campaigns]({% post_url 2024-01-16-reasons-business-use-email-marketing %})**? With **[85% of emails](https://www.clerk.io/blog/email-marketing-stats-2021)** opened on mobile devices, optimizing your campaigns is crucial. 
